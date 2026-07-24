@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T03:26:34.651Z",
+  "generatedAt": "2026-07-24T03:24:42.109Z",
   "samples": [
     {
       "file": "audio/ban-xi-jian-zun.001.m4a",
@@ -15,6 +15,22 @@
       "hasTones": false,
       "contrasts": [
         "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/gu-shi-xi-lie.001.mp3",
+      "transcript": "gu-shi-xi-lie",
+      "syllables": [
+        "gu",
+        "shi",
+        "xi",
+        "lie"
+      ],
+      "syllableCount": 4,
+      "difficulty": "L1",
+      "hasTones": false,
+      "contrasts": [
         "x_initial"
       ]
     },
@@ -37,6 +53,22 @@
       ]
     },
     {
+      "file": "audio/qu-you-bei-shuo.001.mp3",
+      "transcript": "qu-you-bei-shuo",
+      "syllables": [
+        "qu",
+        "you",
+        "bei",
+        "shuo"
+      ],
+      "syllableCount": 4,
+      "difficulty": "L1",
+      "hasTones": false,
+      "contrasts": [
+        "q_initial"
+      ]
+    },
+    {
       "file": "audio/quan-qiu-kong-ken.001.m4a",
       "transcript": "quan-qiu-kong-ken",
       "syllables": [
@@ -52,6 +84,64 @@
         "n_final",
         "ng_final",
         "q_initial"
+      ]
+    },
+    {
+      "file": "audio/ru-guo-yao-xuan-chu-yi-wei.001.mp3",
+      "transcript": "ru-guo-yao-xuan-chu-yi-wei",
+      "syllables": [
+        "ru",
+        "guo",
+        "yao",
+        "xuan",
+        "chu",
+        "yi",
+        "wei"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": false,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/suo-you-de-zhe-xue-jia-li.001.mp3",
+      "transcript": "suo-you-de-zhe-xue-jia-li",
+      "syllables": [
+        "suo",
+        "you",
+        "de",
+        "zhe",
+        "xue",
+        "jia",
+        "li"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": false,
+      "contrasts": [
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/zui-rang-ren-yi-yan-nan.001.mp3",
+      "transcript": "zui-rang-ren-yi-yan-nan",
+      "syllables": [
+        "zui",
+        "rang",
+        "ren",
+        "yi",
+        "yan",
+        "nan"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": false,
+      "contrasts": [
+        "n_final",
+        "ng_final"
       ]
     }
   ]

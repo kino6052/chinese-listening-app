@@ -82,6 +82,20 @@ async function main() {
         const parsed: WordTag[] = JSON.parse(wordsTag);
         words = parsed.map((w) => w.pinyin).filter(Boolean);
         if (words.length === 0) throw new Error("empty words array");
+        // Warn-only safety net for the manual/LLM transcript pipeline: it
+        // never runs through build_transcript.py's dictionary-based
+        // re-segmentation (see greedy_split there), so an over-clustered
+        // word (e.g. a whole proper-noun compound left as one bracket)
+        // can slip through undetected. Not fatal -- just flags it for a
+        // human to fix at the source (the transcript/prompt) and re-tag.
+        for (const word of words) {
+          const syllableCount = word.trim().split(/\s+/).filter(Boolean).length;
+          if (syllableCount > 3) {
+            console.warn(
+              `"${filename}": word "${word}" has ${syllableCount} syllables (>3) -- likely an over-clustered word that should be split further at the source transcript.`,
+            );
+          }
+        }
       } catch (err) {
         console.warn(
           `"${filename}": TXXX:words tag is present but unparseable (${(err as Error).message}); falling back to one word per syllable.`,

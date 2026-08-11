@@ -112,13 +112,16 @@ describe("scoreSample - granularity", () => {
   test("word granularity scores against sample.words instead of sample.syllables", () => {
     const sample = makeSample({ syllables: ["ni3", "hao3"], words: ["ni3 hao3"] });
     const record = scoreSample(sample, "ni3 hao3", 1, "sounds_tones", "word");
-    expect(record.possible).toBe(1); // one multi-syllable word, scored atomically
-    expect(record.earned).toBe(1);
+    expect(record.possible).toBe(2); // one multi-syllable word, possible = its syllable count
+    expect(record.earned).toBe(2);
   });
 
-  test("word granularity: one wrong syllable inside the word zeroes that word's credit", () => {
+  test("word granularity: one wrong syllable inside the word earns partial credit, not zero", () => {
     const sample = makeSample({ syllables: ["ni3", "hao3"], words: ["ni3 hao3"] });
     const record = scoreSample(sample, "ni3 how3", 1, "sounds_tones", "word");
-    expect(record.earned).toBe(0);
+    // ni3 aligns fully (earned 1); hao3/how3 fails to align on sound but still
+    // gets independent tone credit (both tone 3) for half credit (0.5).
+    expect(record.possible).toBe(2);
+    expect(record.earned).toBe(1.5);
   });
 });

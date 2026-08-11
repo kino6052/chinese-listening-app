@@ -10,6 +10,7 @@
   • Split every Chinese sentence into individual words (standard Chinese word segmentation).
   • Put each separate word inside its own square brackets: [ ].
   • Do NOT group phrases – every bracket must contain one single word (e.g., [我们] [的], not [我们的]).
+  • This also applies to transliterated proper‑noun + common‑noun compounds – split off the recognizable common‑noun part instead of leaving the whole thing as one bracket (e.g., 马里亚纳海沟 "Mariana Trench" → [马里亚纳] [海沟], splitting off 海沟 "trench" since it's a real word). Don't force an unrecognizable name down to individual characters if it has no internal word boundary of its own (马里亚纳 itself stays as one bracket, not [马][里][亚][纳]).
   • Punctuation (。，？、！等), numbers, percentages (%, 米, 公里), and time expressions can be kept as separate unbracketed elements or bracketed according to natural word boundaries (e.g., [三十分钟] or [30] [分钟] – follow standard segmentation).
   • English proper names, acronyms, brand names, and foreign phrases that appear in the Chinese text (e.g., The Great Blue Hole, AOW, Refresher, Padding, Eric Yes) are left OUTSIDE the brackets in the C‑line (they are not bracketed).
 

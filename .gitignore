@@ -1,3 +1,11 @@
 node_modules/
 dist/
 .env
+
+# Scratch working directories for the transcript pipeline -- source
+# recordings/subtitles and their generated intermediates. The actual
+# deliverables (public/audio/*, manifest.generated.json) are committed;
+# these are not.
+scripts/transcript-pipeline/input/
+scripts/transcript-pipeline/output/
+scripts/transcript-pipeline/scripts/__pycache__/

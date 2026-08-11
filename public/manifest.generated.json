@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-10T03:48:35.940Z",
+  "generatedAt": "2026-08-11T03:55:39.466Z",
   "samples": [
     {
       "file": "audio/001.001.mp3",
       "fileName": "001.001.mp3",
-      "transcript": "Di4-li3-ya3-si1-te4-hao4-qu4-wang3-mu4-qian2-yi3-zhi1-de5",
+      "transcript": "di4-li3-ya3-si1-te4-hao4-qu4-wang3-mu4-qian2-yi3-zhi1-de5",
       "syllables": [
-        "Di4",
+        "di4",
         "li3",
         "ya3",
         "si1",
@@ -21,7 +21,8 @@
         "de5"
       ],
       "words": [
-        "Di4 li3 ya3 si1 te4 hao4",
+        "di4 li3 ya3 si1 te4",
+        "hao4",
         "qu4 wang3",
         "mu4 qian2",
         "yi3 zhi1",
@@ -39,19 +40,20 @@
     {
       "file": "audio/001.002.mp3",
       "fileName": "001.002.mp3",
-      "transcript": "Ma3-li3-ya4-na4-Hai3-gou1-wo3-men5",
+      "transcript": "ma3-li3-ya4-na4-hai3-gou1-wo3-men5",
       "syllables": [
-        "Ma3",
+        "ma3",
         "li3",
         "ya4",
         "na4",
-        "Hai3",
+        "hai3",
         "gou1",
         "wo3",
         "men5"
       ],
       "words": [
-        "Ma3 li3 ya4 na4 Hai3 gou1",
+        "ma3 li3 ya4 na4",
+        "hai3 gou1",
         "wo3 men5"
       ],
       "syllableCount": 8,
@@ -64,7 +66,7 @@
     {
       "file": "audio/001.003.mp3",
       "fileName": "001.003.mp3",
-      "transcript": "dou1-zhi1-dao4-zheng3-ge4-di4-qiu2-da4-bu4-fen4-dou1-bei4-hai3-yang2",
+      "transcript": "dou1-zhi1-dao4-zheng3-ge4-di4-qiu2-da4-bu4-fen5-dou1-bei4-hai3-yang2",
       "syllables": [
         "dou1",
         "zhi1",
@@ -75,7 +77,7 @@
         "qiu2",
         "da4",
         "bu4",
-        "fen4",
+        "fen5",
         "dou1",
         "bei4",
         "hai3",
@@ -86,7 +88,7 @@
         "zhi1 dao4",
         "zheng3 ge4",
         "di4 qiu2",
-        "da4 bu4 fen4",
+        "da4 bu4 fen5",
         "dou1",
         "bei4",
         "hai3 yang2"
@@ -103,7 +105,7 @@
     {
       "file": "audio/001.004.mp3",
       "fileName": "001.004.mp3",
-      "transcript": "suo3-fu4-gai4-lu4-di4-de5-mian4-ji1-zhi3-zhan4-bu2-dao4",
+      "transcript": "suo3-fu4-gai4-lu4-di4-de5-mian4-ji1-zhi3-zhan4-bu4-dao4",
       "syllables": [
         "suo3",
         "fu4",
@@ -115,7 +117,7 @@
         "ji1",
         "zhi3",
         "zhan4",
-        "bu2",
+        "bu4",
         "dao4"
       ],
       "words": [
@@ -126,7 +128,7 @@
         "mian4 ji1",
         "zhi3",
         "zhan4",
-        "bu2 dao4"
+        "bu4 dao4"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
@@ -160,8 +162,7 @@
         "suo3 yi3",
         "ke3 neng2",
         "hen3 duo1",
-        "ren2",
-        "hui4",
+        "ren2 hui4",
         "jue2 de5",
         "ren2 lei4",
         "dui4",
@@ -363,12 +364,12 @@
     {
       "file": "audio/001.011.mp3",
       "fileName": "001.011.mp3",
-      "transcript": "suo3-hai3-yang2-qian3-ceng2-di4-qu1-shi4-mei2-shen2-me5-wen4-ti2-de5",
+      "transcript": "suo3-hai3-yang2-jian1-ceng2-di4-qu1-shi4-mei2-shen2-me5-wen4-ti2-de5",
       "syllables": [
         "suo3",
         "hai3",
         "yang2",
-        "qian3",
+        "jian1",
         "ceng2",
         "di4",
         "qu1",
@@ -383,7 +384,7 @@
       "words": [
         "suo3",
         "hai3 yang2",
-        "qian3 ceng2",
+        "jian1 ceng2",
         "di4 qu1",
         "shi4",
         "mei2 shen2 me5",
@@ -507,7 +508,8 @@
         "yue4 qiu2",
         "wei2 li4",
         "dao4",
-        "mu4 qian2 wei2 zhi3",
+        "mu4 qian2",
+        "wei2 zhi3",
         "ru2 guo3",
         "suan4 shang4"
       ],
@@ -676,26 +678,27 @@
     {
       "file": "audio/001.019.mp3",
       "fileName": "001.019.mp3",
-      "transcript": "da2-guo4-Ma3-li3-ya4-na4-Hai3-gou1-zui4-shen1-chu4-de5-ren2",
+      "transcript": "da2-guo4-ma3-li3-ya4-na4-hai3-gou1-zui4-shen1-chu3-de5-ren2",
       "syllables": [
         "da2",
         "guo4",
-        "Ma3",
+        "ma3",
         "li3",
         "ya4",
         "na4",
-        "Hai3",
+        "hai3",
         "gou1",
         "zui4",
         "shen1",
-        "chu4",
+        "chu3",
         "de5",
         "ren2"
       ],
       "words": [
         "da2 guo4",
-        "Ma3 li3 ya4 na4 Hai3 gou1",
-        "zui4 shen1 chu4",
+        "ma3 li3 ya4 na4",
+        "hai3 gou1",
+        "zui4 shen1 chu3",
         "de5",
         "ren2"
       ],
@@ -727,9 +730,11 @@
         "jiu4"
       ],
       "words": [
-        "zai4 ren2 qian2 shui3 qi4",
+        "zai4 ren2",
+        "qian2 shui3 qi4",
         "dao4",
-        "mu4 qian2 wei2 zhi3",
+        "mu4 qian2",
+        "wei2 zhi3",
         "quan2 shi4 jie4",
         "jiu4"
       ],
@@ -883,7 +888,7 @@
     {
       "file": "audio/001.025.mp3",
       "fileName": "001.025.mp3",
-      "transcript": "zui4-shen1-de5-di4-fang5-zai4-ta1-de5-di3-bu4-yi2-ge4-jiao4-zuo4-tiao3",
+      "transcript": "zui4-shen1-de5-di4-fang5-zai4-ta1-de5-di3-bu4-yi2-ge4-jiao4-zuo4-tiao1",
       "syllables": [
         "zui4",
         "shen1",
@@ -899,7 +904,7 @@
         "ge4",
         "jiao4",
         "zuo4",
-        "tiao3"
+        "tiao1"
       ],
       "words": [
         "zui4 shen1",
@@ -911,7 +916,7 @@
         "di3 bu4",
         "yi2 ge4",
         "jiao4 zuo4",
-        "tiao3"
+        "tiao1"
       ],
       "syllableCount": 15,
       "difficulty": "L4",
@@ -991,15 +996,15 @@
     {
       "file": "audio/001.028.mp3",
       "fileName": "001.028.mp3",
-      "transcript": "zheng3-ge4-Zhu1-mu4-lang3-ma3-Feng1-xiang1-dang1-shen1-le5-na4",
+      "transcript": "zheng3-ge4-zhu1-mu4-lang3-ma3-feng1-xiang1-dang1-shen1-le5-na4",
       "syllables": [
         "zheng3",
         "ge4",
-        "Zhu1",
+        "zhu1",
         "mu4",
         "lang3",
         "ma3",
-        "Feng1",
+        "feng1",
         "xiang1",
         "dang1",
         "shen1",
@@ -1008,7 +1013,7 @@
       ],
       "words": [
         "zheng3 ge4",
-        "Zhu1 mu4 lang3 ma3 Feng1",
+        "zhu1 mu4 lang3 ma3 feng1",
         "xiang1 dang1",
         "shen1",
         "le5",
@@ -1071,7 +1076,7 @@
     {
       "file": "audio/001.030.mp3",
       "fileName": "001.030.mp3",
-      "transcript": "ne5-shi4-nian2-de5-shi2-hou5-Ying1-guo2-Huang2-jia1-Hai3-jun1",
+      "transcript": "ne5-shi4-nian2-de5-shi2-hou5-ying1-guo2-huang2-jia1-hai3-jun1",
       "syllables": [
         "ne5",
         "shi4",
@@ -1079,11 +1084,11 @@
         "de5",
         "shi2",
         "hou5",
-        "Ying1",
+        "ying1",
         "guo2",
-        "Huang2",
+        "huang2",
         "jia1",
-        "Hai3",
+        "hai3",
         "jun1"
       ],
       "words": [
@@ -1092,7 +1097,8 @@
         "nian2",
         "de5",
         "shi2 hou5",
-        "Ying1 guo2 Huang2 jia1 Hai3 jun1"
+        "ying1 guo2",
+        "huang2 jia1 hai3 jun1"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
@@ -1105,13 +1111,13 @@
     {
       "file": "audio/001.031.mp3",
       "fileName": "001.031.mp3",
-      "transcript": "de5-Tiao3-zhan4-zhe3-Hao4-jian4-chuan2-dang1-shi2-zheng4-zai4-jin4",
+      "transcript": "de5-tiao3-zhan4-zhe3-hao4-jian4-chuan2-dang1-shi2-zheng4-zai4-jin4",
       "syllables": [
         "de5",
-        "Tiao3",
+        "tiao3",
         "zhan4",
         "zhe3",
-        "Hao4",
+        "hao4",
         "jian4",
         "chuan2",
         "dang1",
@@ -1122,7 +1128,8 @@
       ],
       "words": [
         "de5",
-        "Tiao3 zhan4 zhe3 Hao4",
+        "tiao3 zhan4 zhe3",
+        "hao4",
         "jian4 chuan2",
         "dang1 shi2",
         "zheng4 zai4",
@@ -1139,7 +1146,7 @@
     {
       "file": "audio/001.032.mp3",
       "fileName": "001.032.mp3",
-      "transcript": "hang2-yi2-ge4-san1-nian2-shi2-jian1-de5-ke1-xue2-kao3-cha2-ren4-wu4",
+      "transcript": "hang2-yi2-ge4-san1-nian2-shi2-jian1-de5-ke1-xue2-kao3-cha2-ren4-wu5",
       "syllables": [
         "hang2",
         "yi2",
@@ -1154,7 +1161,7 @@
         "kao3",
         "cha2",
         "ren4",
-        "wu4"
+        "wu5"
       ],
       "words": [
         "hang2",
@@ -1162,8 +1169,9 @@
         "san1 nian2",
         "shi2 jian1",
         "de5",
-        "ke1 xue2 kao3 cha2",
-        "ren4 wu4"
+        "ke1 xue2",
+        "kao3 cha2",
+        "ren4 wu5"
       ],
       "syllableCount": 14,
       "difficulty": "L4",
@@ -1209,7 +1217,7 @@
     {
       "file": "audio/001.034.mp3",
       "fileName": "001.034.mp3",
-      "transcript": "ke1-xue2-jia1-ta1-men5-zhe4-ci4-ren4-wu4-de5-mu4-di4-ne5",
+      "transcript": "ke1-xue2-jia1-ta1-men5-zhe4-ci4-ren4-wu5-de5-mu4-di4-ne5",
       "syllables": [
         "ke1",
         "xue2",
@@ -1219,7 +1227,7 @@
         "zhe4",
         "ci4",
         "ren4",
-        "wu4",
+        "wu5",
         "de5",
         "mu4",
         "di4",
@@ -1229,7 +1237,7 @@
         "ke1 xue2 jia1",
         "ta1 men5",
         "zhe4 ci4",
-        "ren4 wu4",
+        "ren4 wu5",
         "de5",
         "mu4 di4",
         "ne5"
@@ -1379,7 +1387,10 @@
         "zai4",
         "shuo1",
         "de5",
-        "shen1 hai3 wu2 sheng1 wu4 lun4",
+        "shen1 hai3",
+        "wu2",
+        "sheng1 wu4",
+        "lun4",
         "jiu4"
       ],
       "syllableCount": 12,
@@ -1624,7 +1635,7 @@
     {
       "file": "audio/001.045.mp3",
       "fileName": "001.045.mp3",
-      "transcript": "ti3-cheng2-shou4-bu4-liao3-shen1-hai3-de5-ya1-li4-er2-qie3-yi2-pian4",
+      "transcript": "ti3-cheng2-shou4-bu4-liao3-shen1-hai3-de5-ya1-li4-er2-qie3-yi1-pian1",
       "syllables": [
         "ti3",
         "cheng2",
@@ -1638,8 +1649,8 @@
         "li4",
         "er2",
         "qie3",
-        "yi2",
-        "pian4"
+        "yi1",
+        "pian1"
       ],
       "words": [
         "ti3",
@@ -1649,7 +1660,7 @@
         "de5",
         "ya1 li4",
         "er2 qie3",
-        "yi2 pian4"
+        "yi1 pian1"
       ],
       "syllableCount": 14,
       "difficulty": "L4",
@@ -1741,7 +1752,7 @@
     {
       "file": "audio/001.048.mp3",
       "fileName": "001.048.mp3",
-      "transcript": "liang3-nian2-duo1-de5-hang2-xing2-nian2-de5-yue4-tiao3",
+      "transcript": "liang3-nian2-duo1-de5-hang2-xing2-nian2-de5-yue4-tiao1",
       "syllables": [
         "liang3",
         "nian2",
@@ -1752,7 +1763,7 @@
         "nian2",
         "de5",
         "yue4",
-        "tiao3"
+        "tiao1"
       ],
       "words": [
         "liang3 nian2",
@@ -1762,7 +1773,7 @@
         "nian2",
         "de5",
         "yue4",
-        "tiao3"
+        "tiao1"
       ],
       "syllableCount": 10,
       "difficulty": "L4",
@@ -1982,7 +1993,10 @@
       ],
       "words": [
         "xian4",
-        "shen1 hai3 wu2 sheng1 wu4 lun4",
+        "shen1 hai3",
+        "wu2",
+        "sheng1 wu4",
+        "lun4",
         "wan2 quan2",
         "shi4",
         "cuo4",
@@ -2002,7 +2016,7 @@
     {
       "file": "audio/001.055.mp3",
       "fileName": "001.055.mp3",
-      "transcript": "yang2-li3-qi2-shi2-chong1-man3-le5-sheng1-ming4-er2-qie3-hai2-you3-yi2-jian4",
+      "transcript": "yang2-li3-qi2-shi2-chong1-man3-le5-sheng1-ming4-er2-qie3-hai2-you3-yi1-jian4",
       "syllables": [
         "yang2",
         "li3",
@@ -2017,7 +2031,7 @@
         "qie3",
         "hai2",
         "you3",
-        "yi2",
+        "yi1",
         "jian4"
       ],
       "words": [
@@ -2028,7 +2042,7 @@
         "sheng1 ming4",
         "er2 qie3",
         "hai2 you3",
-        "yi2 jian4"
+        "yi1 jian4"
       ],
       "syllableCount": 15,
       "difficulty": "L4",
@@ -2123,7 +2137,7 @@
     {
       "file": "audio/001.058.mp3",
       "fileName": "001.058.mp3",
-      "transcript": "mei3-ge2-ji3-tian1-jiu4-hui4-wang3-hai3-li3-reng1-yi4-tiao2",
+      "transcript": "mei3-ge2-ji3-tian1-jiu4-hui4-wang3-hai3-li3-reng1-yi1-tiao2",
       "syllables": [
         "mei3",
         "ge2",
@@ -2135,16 +2149,18 @@
         "hai3",
         "li3",
         "reng1",
-        "yi4",
+        "yi1",
         "tiao2"
       ],
       "words": [
         "mei3 ge2",
         "ji3 tian1",
-        "jiu4 hui4",
-        "wang3 hai3 li3",
+        "jiu4",
+        "hui4",
+        "wang3",
+        "hai3 li3",
         "reng1",
-        "yi4 tiao2"
+        "yi1 tiao2"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
@@ -2157,7 +2173,7 @@
     {
       "file": "audio/001.059.mp3",
       "fileName": "001.059.mp3",
-      "transcript": "sheng2-zi5-sheng2-zi5-de5-ling4-yi4-tou2-bang3-zhe5-qian1-kuai4",
+      "transcript": "sheng2-zi5-sheng2-zi5-de5-ling4-yi1-tou2-bang3-zhe5-qian1-kuai4",
       "syllables": [
         "sheng2",
         "zi5",
@@ -2165,7 +2181,7 @@
         "zi5",
         "de5",
         "ling4",
-        "yi4",
+        "yi1",
         "tou2",
         "bang3",
         "zhe5",
@@ -2176,7 +2192,7 @@
         "sheng2 zi5",
         "sheng2 zi5",
         "de5",
-        "ling4 yi4 tou2",
+        "ling4 yi1 tou2",
         "bang3",
         "zhe5",
         "qian1 kuai4"
@@ -2292,8 +2308,7 @@
         "zhe4 kuai4",
         "hai3 yu4",
         "ta1 men5",
-        "ba3",
-        "zheng3"
+        "ba3 zheng3"
       ],
       "syllableCount": 14,
       "difficulty": "L4",
@@ -2418,7 +2433,7 @@
     {
       "file": "audio/001.066.mp3",
       "fileName": "001.066.mp3",
-      "transcript": "de5-sheng2-zi5-dou1-yong4-wan2-le5-yi2-gong4-mi3",
+      "transcript": "de5-sheng2-zi5-dou1-yong4-wan2-le5-yi1-gong4-mi3",
       "syllables": [
         "de5",
         "sheng2",
@@ -2427,7 +2442,7 @@
         "yong4",
         "wan2",
         "le5",
-        "yi2",
+        "yi1",
         "gong4",
         "mi3"
       ],
@@ -2438,7 +2453,7 @@
         "yong4",
         "wan2",
         "le5",
-        "yi2 gong4",
+        "yi1 gong4",
         "mi3"
       ],
       "syllableCount": 10,
@@ -2546,7 +2561,8 @@
         "feng1",
         "dao3",
         "zhe5",
-        "fang4 hai3 li3",
+        "fang4",
+        "hai3 li3",
         "le5",
         "yi1 yang4",
         "yu2 shi4",
@@ -2583,8 +2599,7 @@
         "chuan2 shang4",
         "de5",
         "zhe4",
-        "ming2",
-        "ke1"
+        "ming2 ke1"
       ],
       "syllableCount": 11,
       "difficulty": "L4",
@@ -2618,7 +2633,8 @@
         "le5",
         "zhe4 ci4",
         "de5",
-        "kao3 cha2 bao4 gao4"
+        "kao3 cha2",
+        "bao4 gao4"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
@@ -2630,17 +2646,17 @@
     {
       "file": "audio/001.072.mp3",
       "fileName": "001.072.mp3",
-      "transcript": "bao4-gao4-li3-shuo1-Ma3-li3-ya4-na4-Hai3-gou1-de5-zui4",
+      "transcript": "bao4-gao4-li3-shuo1-ma3-li3-ya4-na4-hai3-gou1-de5-zui4",
       "syllables": [
         "bao4",
         "gao4",
         "li3",
         "shuo1",
-        "Ma3",
+        "ma3",
         "li3",
         "ya4",
         "na4",
-        "Hai3",
+        "hai3",
         "gou1",
         "de5",
         "zui4"
@@ -2649,7 +2665,8 @@
         "bao4 gao4",
         "li3",
         "shuo1",
-        "Ma3 li3 ya4 na4 Hai3 gou1",
+        "ma3 li3 ya4 na4",
+        "hai3 gou1",
         "de5",
         "zui4"
       ],
@@ -2733,13 +2750,13 @@
     {
       "file": "audio/001.075.mp3",
       "fileName": "001.075.mp3",
-      "transcript": "hai2-fa1-xian4-le5-yi2-gong4-duo1-zhong3-yi3-qian2-mei2",
+      "transcript": "hai2-fa1-xian4-le5-yi1-gong4-duo1-zhong3-yi3-qian2-mei2",
       "syllables": [
         "hai2",
         "fa1",
         "xian4",
         "le5",
-        "yi2",
+        "yi1",
         "gong4",
         "duo1",
         "zhong3",
@@ -2751,7 +2768,7 @@
         "hai2",
         "fa1 xian4",
         "le5",
-        "yi2 gong4",
+        "yi1 gong4",
         "duo1 zhong3",
         "yi3 qian2",
         "mei2"
@@ -2769,7 +2786,7 @@
     {
       "file": "audio/001.076.mp3",
       "fileName": "001.076.mp3",
-      "transcript": "jian4-guo4-de5-xin1-sheng1-ming4-zhe4-ci4-kao3-cha2-jie2-guo3",
+      "transcript": "jian4-guo4-de5-xin1-sheng1-ming4-zhe4-ci4-kao3-cha2-jie1-guo3",
       "syllables": [
         "jian4",
         "guo4",
@@ -2781,7 +2798,7 @@
         "ci4",
         "kao3",
         "cha2",
-        "jie2",
+        "jie1",
         "guo3"
       ],
       "words": [
@@ -2792,7 +2809,7 @@
         "sheng1 ming4",
         "zhe4 ci4",
         "kao3 cha2",
-        "jie2 guo3"
+        "jie1 guo3"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
@@ -2825,7 +2842,8 @@
         "zai4",
         "dang1 shi2",
         "de5",
-        "hai3 yang2 ke1 xue2 jie4",
+        "hai3 yang2",
+        "ke1 xue2 jie4",
         "ye3",
         "yin3 qi3"
       ],
@@ -2864,7 +2882,8 @@
         "de5",
         "bo1 dong4",
         "ke3 yi3",
-        "suan4 de5 shang4",
+        "suan4 de5",
+        "shang4",
         "shi4",
         "yi1"
       ],
@@ -2880,7 +2899,7 @@
     {
       "file": "audio/001.079.mp3",
       "fileName": "001.079.mp3",
-      "transcript": "chang3-ke1-xue2-ge2-ming4-le5-bu2-guo4-da4-jia1-ye3-kan4-chu1",
+      "transcript": "chang3-ke1-xue2-ge2-ming4-le5-bu4-guo4-da4-jia1-ye3-kan4-chu1",
       "syllables": [
         "chang3",
         "ke1",
@@ -2888,7 +2907,7 @@
         "ge2",
         "ming4",
         "le5",
-        "bu2",
+        "bu4",
         "guo4",
         "da4",
         "jia1",
@@ -2898,9 +2917,10 @@
       ],
       "words": [
         "chang3",
-        "ke1 xue2 ge2 ming4",
+        "ke1 xue2",
+        "ge2 ming4",
         "le5",
-        "bu2 guo4",
+        "bu4 guo4",
         "da4 jia1",
         "ye3",
         "kan4 chu1"
@@ -2951,7 +2971,7 @@
     {
       "file": "audio/001.081.mp3",
       "fileName": "001.081.mp3",
-      "transcript": "shi4-cuo4-de5-zhe4-bing4-bu2-shi4-Ma3-li3-ya4-na4-Hai3-gou1",
+      "transcript": "shi4-cuo4-de5-zhe4-bing4-bu2-shi5-ma3-li3-ya4-na4-hai3-gou1",
       "syllables": [
         "shi4",
         "cuo4",
@@ -2959,12 +2979,12 @@
         "zhe4",
         "bing4",
         "bu2",
-        "shi4",
-        "Ma3",
+        "shi5",
+        "ma3",
         "li3",
         "ya4",
         "na4",
-        "Hai3",
+        "hai3",
         "gou1"
       ],
       "words": [
@@ -2973,13 +2993,50 @@
         "de5",
         "zhe4",
         "bing4",
-        "bu2 shi4",
-        "Ma3 li3 ya4 na4 Hai3 gou1"
+        "bu2 shi5",
+        "ma3 li3 ya4 na4",
+        "hai3 gou1"
       ],
       "syllableCount": 13,
       "difficulty": "L4",
       "hasTones": true,
       "contrasts": [
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/001.082.mp3",
+      "fileName": "001.082.mp3",
+      "transcript": "de5-zui4-shen1-chu3-dan4-shi4-you2-yu2-dang1-shi2-de5-ce4-liang2",
+      "syllables": [
+        "de5",
+        "zui4",
+        "shen1",
+        "chu3",
+        "dan4",
+        "shi4",
+        "you2",
+        "yu2",
+        "dang1",
+        "shi2",
+        "de5",
+        "ce4",
+        "liang2"
+      ],
+      "words": [
+        "de5",
+        "zui4 shen1 chu3",
+        "dan4 shi4",
+        "you2 yu2",
+        "dang1 shi2",
+        "de5",
+        "ce4 liang2"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
         "ng_final"
       ]
     },
@@ -3058,15 +3115,15 @@
     {
       "file": "audio/001.085.mp3",
       "fileName": "001.085.mp3",
-      "transcript": "hou4-le5-nian2-Tiao3-zhan4-zhe3-Er4-hao4-zai4",
+      "transcript": "hou4-le5-nian2-tiao3-zhan4-zhe3-er4-hao4-zai4",
       "syllables": [
         "hou4",
         "le5",
         "nian2",
-        "Tiao3",
+        "tiao3",
         "zhan4",
         "zhe3",
-        "Er4",
+        "er4",
         "hao4",
         "zai4"
       ],
@@ -3074,7 +3131,8 @@
         "hou4",
         "le5",
         "nian2",
-        "Tiao3 zhan4 zhe3 Er4 hao4",
+        "tiao3 zhan4 zhe3",
+        "er4 hao4",
         "zai4"
       ],
       "syllableCount": 9,
@@ -3082,6 +3140,41 @@
       "hasTones": true,
       "contrasts": [
         "n_final"
+      ]
+    },
+    {
+      "file": "audio/001.086.mp3",
+      "fileName": "001.086.mp3",
+      "transcript": "ci4-lai2-dao4-ma3-li3-ya4-na4-hai3-gou1-zhe4-ci4-chuan2-shang4",
+      "syllables": [
+        "ci4",
+        "lai2",
+        "dao4",
+        "ma3",
+        "li3",
+        "ya4",
+        "na4",
+        "hai3",
+        "gou1",
+        "zhe4",
+        "ci4",
+        "chuan2",
+        "shang4"
+      ],
+      "words": [
+        "ci4",
+        "lai2 dao4",
+        "ma3 li3 ya4 na4",
+        "hai3 gou1",
+        "zhe4 ci4",
+        "chuan2 shang4"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
       ]
     },
     {
@@ -3124,17 +3217,17 @@
     {
       "file": "audio/001.088.mp3",
       "fileName": "001.088.mp3",
-      "transcript": "yao4-long4-ming2-bai5-Ma3-li3-ya4-na4-Hai3-gou1-dao4-di3-chang2-shen2-me5",
+      "transcript": "yao4-long4-ming2-bai5-ma3-li3-ya4-na4-hai3-gou1-dao4-di3-chang2-shen2-me5",
       "syllables": [
         "yao4",
         "long4",
         "ming2",
         "bai5",
-        "Ma3",
+        "ma3",
         "li3",
         "ya4",
         "na4",
-        "Hai3",
+        "hai3",
         "gou1",
         "dao4",
         "di3",
@@ -3146,7 +3239,8 @@
         "yao4",
         "long4",
         "ming2 bai5",
-        "Ma3 li3 ya4 na4 Hai3 gou1",
+        "ma3 li3 ya4 na4",
+        "hai3 gou1",
         "dao4 di3",
         "chang2",
         "shen2 me5"
@@ -3236,7 +3330,7 @@
     {
       "file": "audio/001.091.mp3",
       "fileName": "001.091.mp3",
-      "transcript": "hui2-hou4-de5-shi2-jian1-cha1-jiu4-zhe4-yang4-Tiao3-zhan4-zhe3-Er4-hao4",
+      "transcript": "hui2-hou4-de5-shi2-jian1-cha1-jiu4-zhe4-yang4-tiao3-zhan4-zhe3-er4-hao4",
       "syllables": [
         "hui2",
         "hou4",
@@ -3247,10 +3341,10 @@
         "jiu4",
         "zhe4",
         "yang4",
-        "Tiao3",
+        "tiao3",
         "zhan4",
         "zhe3",
-        "Er4",
+        "er4",
         "hao4"
       ],
       "words": [
@@ -3259,7 +3353,8 @@
         "shi2 jian1 cha1",
         "jiu4",
         "zhe4 yang4",
-        "Tiao3 zhan4 zhe3 Er4 hao4"
+        "tiao3 zhan4 zhe3",
+        "er4 hao4"
       ],
       "syllableCount": 14,
       "difficulty": "L4",
@@ -3272,7 +3367,7 @@
     {
       "file": "audio/001.092.mp3",
       "fileName": "001.092.mp3",
-      "transcript": "shou3-ci4-miao2-hui4-chu1-le5-Ma3-li3-ya4-na4-Hai3-gou1",
+      "transcript": "shou3-ci4-miao2-hui4-chu1-le5-ma3-li3-ya4-na4-hai3-gou1",
       "syllables": [
         "shou3",
         "ci4",
@@ -3280,18 +3375,19 @@
         "hui4",
         "chu1",
         "le5",
-        "Ma3",
+        "ma3",
         "li3",
         "ya4",
         "na4",
-        "Hai3",
+        "hai3",
         "gou1"
       ],
       "words": [
         "shou3 ci4",
         "miao2 hui4 chu1",
         "le5",
-        "Ma3 li3 ya4 na4 Hai3 gou1"
+        "ma3 li3 ya4 na4",
+        "hai3 gou1"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
@@ -3301,14 +3397,14 @@
     {
       "file": "audio/001.093.mp3",
       "fileName": "001.093.mp3",
-      "transcript": "de5-yang4-zi5-zhe4-shi4-yi4-tiao2-ping2-jun1-shen1-du4-chao1-guo4",
+      "transcript": "de5-yang4-zi5-zhe4-shi4-yi1-tiao2-ping2-jun1-shen1-du4-chao1-guo4",
       "syllables": [
         "de5",
         "yang4",
         "zi5",
         "zhe4",
         "shi4",
-        "yi4",
+        "yi1",
         "tiao2",
         "ping2",
         "jun1",
@@ -3321,7 +3417,7 @@
         "de5",
         "yang4 zi5",
         "zhe4 shi4",
-        "yi4 tiao2",
+        "yi1 tiao2",
         "ping2 jun1",
         "shen1 du4",
         "chao1 guo4"
@@ -3441,13 +3537,13 @@
     {
       "file": "audio/001.097.mp3",
       "fileName": "001.097.mp3",
-      "transcript": "zuo4-Tiao3-zhan4-zhe3-Shen1-yuan1-zhe4-shi4-mu4-qian2-yi3-zhi1-de5-hai3",
+      "transcript": "zuo4-tiao3-zhan4-zhe3-shen1-yuan1-zhe4-shi4-mu4-qian2-yi3-zhi1-de5-hai3",
       "syllables": [
         "zuo4",
-        "Tiao3",
+        "tiao3",
         "zhan4",
         "zhe3",
-        "Shen1",
+        "shen1",
         "yuan1",
         "zhe4",
         "shi4",
@@ -3460,7 +3556,8 @@
       ],
       "words": [
         "zuo4",
-        "Tiao3 zhan4 zhe3 Shen1 yuan1",
+        "tiao3 zhan4 zhe3",
+        "shen1 yuan1",
         "zhe4 shi4",
         "mu4 qian2",
         "yi3 zhi1",
@@ -3478,12 +3575,12 @@
     {
       "file": "audio/001.098.mp3",
       "fileName": "001.098.mp3",
-      "transcript": "yang2-zui4-shen1-chu4-zui4-da4-shen1-du4-wei4",
+      "transcript": "yang2-zui4-shen1-chu3-zui4-da4-shen1-du4-wei4",
       "syllables": [
         "yang2",
         "zui4",
         "shen1",
-        "chu4",
+        "chu3",
         "zui4",
         "da4",
         "shen1",
@@ -3492,7 +3589,7 @@
       ],
       "words": [
         "yang2",
-        "zui4 shen1 chu4",
+        "zui4 shen1 chu3",
         "zui4 da4",
         "shen1 du4",
         "wei4"
@@ -3570,7 +3667,8 @@
       ],
       "words": [
         "xiao1 xi5",
-        "gong1 bu4 chu1 lai2",
+        "gong1 bu4",
+        "chu1 lai2",
         "zhi1 hou4",
         "jiu4",
         "yin3 qi3",
@@ -3629,11 +3727,11 @@
     {
       "file": "audio/001.102.mp3",
       "fileName": "001.102.mp3",
-      "transcript": "Ya3-ke4-Pi2-ka3-de2-ta1-shuo1-ta1-xiang3-shi4-shi4",
+      "transcript": "ya3-ke4-pi2-ka3-de2-ta1-shuo1-ta1-xiang3-shi4-shi4",
       "syllables": [
-        "Ya3",
+        "ya3",
         "ke4",
-        "Pi2",
+        "pi2",
         "ka3",
         "de2",
         "ta1",
@@ -3644,8 +3742,9 @@
         "shi4"
       ],
       "words": [
-        "Ya3 ke4",
-        "Pi2 ka3 de2",
+        "ya3 ke4",
+        "pi2",
+        "ka3 de2",
         "ta1",
         "shuo1",
         "ta1",
@@ -3663,29 +3762,30 @@
     {
       "file": "audio/001.103.mp3",
       "fileName": "001.103.mp3",
-      "transcript": "ta1-xiang3-qian2-ru4-Ma3-li3-ya4-na4-Hai3-gou1-qu4-kan4-kan4",
+      "transcript": "ta1-xiang3-qian2-ru4-ma3-li3-ya4-na4-hai3-gou1-qu4-kan4-kan5",
       "syllables": [
         "ta1",
         "xiang3",
         "qian2",
         "ru4",
-        "Ma3",
+        "ma3",
         "li3",
         "ya4",
         "na4",
-        "Hai3",
+        "hai3",
         "gou1",
         "qu4",
         "kan4",
-        "kan4"
+        "kan5"
       ],
       "words": [
         "ta1",
         "xiang3",
         "qian2 ru4",
-        "Ma3 li3 ya4 na4 Hai3 gou1",
+        "ma3 li3 ya4 na4",
+        "hai3 gou1",
         "qu4",
-        "kan4 kan4"
+        "kan4 kan5"
       ],
       "syllableCount": 13,
       "difficulty": "L4",
@@ -3827,17 +3927,17 @@
     {
       "file": "audio/001.107.mp3",
       "fileName": "001.107.mp3",
-      "transcript": "Wei1-lian2-Bi3-bi3-zai4",
+      "transcript": "wei1-lian2-bi3-bi3-zai4",
       "syllables": [
-        "Wei1",
+        "wei1",
         "lian2",
-        "Bi3",
+        "bi3",
         "bi3",
         "zai4"
       ],
       "words": [
-        "Wei1 lian2",
-        "Bi3 bi3",
+        "wei1 lian2",
+        "bi3 bi3",
         "zai4"
       ],
       "syllableCount": 5,
@@ -3850,7 +3950,7 @@
     {
       "file": "audio/001.108.mp3",
       "fileName": "001.108.mp3",
-      "transcript": "nian2-de5-shi2-hou5-gen1-ta1-de5-yi2-ge4-peng2-you5-Ba1-dun4-gong4-tong2-she4",
+      "transcript": "nian2-de5-shi2-hou5-gen1-ta1-de5-yi2-ge4-peng2-you5-ba1-dun4-gong4-tong2-she4",
       "syllables": [
         "nian2",
         "de5",
@@ -3863,7 +3963,7 @@
         "ge4",
         "peng2",
         "you5",
-        "Ba1",
+        "ba1",
         "dun4",
         "gong4",
         "tong2",
@@ -3878,7 +3978,7 @@
         "de5",
         "yi2 ge4",
         "peng2 you5",
-        "Ba1 dun4",
+        "ba1 dun4",
         "gong4 tong2",
         "she4"
       ],
@@ -3912,8 +4012,7 @@
         "qiu2"
       ],
       "words": [
-        "ji4",
-        "le5",
+        "ji4 le5",
         "yi2 ge4",
         "qian2 shui3",
         "qiu2",
@@ -4023,9 +4122,33 @@
       ]
     },
     {
+      "file": "audio/001.113.mp3",
+      "fileName": "001.113.mp3",
+      "transcript": "rong2-na4-liang3-ge4-ren2",
+      "syllables": [
+        "rong2",
+        "na4",
+        "liang3",
+        "ge4",
+        "ren2"
+      ],
+      "words": [
+        "rong2 na4",
+        "liang3 ge4",
+        "ren2"
+      ],
+      "syllableCount": 5,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
       "file": "audio/002.001.mp3",
       "fileName": "002.001.mp3",
-      "transcript": "zhe4-shi4-shang4-you3-hen3-duo1-ling4-ren2-tan4-wei2-guan1-zhi3-de5",
+      "transcript": "zhe4-shi4-shang4-you3-hen3-duo1-ling4-ren2-tan4-wei4-guan1-zhi3-de5",
       "syllables": [
         "zhe4",
         "shi4",
@@ -4036,7 +4159,7 @@
         "ling4",
         "ren2",
         "tan4",
-        "wei2",
+        "wei4",
         "guan1",
         "zhi3",
         "de5"
@@ -4047,7 +4170,8 @@
         "you3",
         "hen3 duo1",
         "ling4 ren2",
-        "tan4 wei2 guan1 zhi3",
+        "tan4 wei4",
+        "guan1 zhi3",
         "de5"
       ],
       "syllableCount": 13,
@@ -4061,16 +4185,16 @@
     {
       "file": "audio/002.002.mp3",
       "fileName": "002.002.mp3",
-      "transcript": "qi2-ji4-xiang4-shi4-Ying1-guo2-de5-Ju4-shi2-zhen4-yue4-nan2",
+      "transcript": "qi2-ji4-xiang4-shi4-ying1-guo2-de5-ju4-shi2-zhen4-yue4-nan2",
       "syllables": [
         "qi2",
         "ji4",
         "xiang4",
         "shi4",
-        "Ying1",
+        "ying1",
         "guo2",
         "de5",
-        "Ju4",
+        "ju4",
         "shi2",
         "zhen4",
         "yue4",
@@ -4079,9 +4203,9 @@
       "words": [
         "qi2 ji4",
         "xiang4 shi4",
-        "Ying1 guo2",
+        "ying1 guo2",
         "de5",
-        "Ju4 shi2 zhen4",
+        "ju4 shi2 zhen4",
         "yue4 nan2"
       ],
       "syllableCount": 12,
@@ -4097,28 +4221,28 @@
     {
       "file": "audio/002.003.mp3",
       "fileName": "002.003.mp3",
-      "transcript": "de5-Xia4-long2-Wan1-huo4-shi4-jian3-pu3-zhai4-de5-Wu2-ge1",
+      "transcript": "de5-xia4-long2-wan1-huo4-shi4-jian3-pu3-zhai4-de5-wu2-ge1",
       "syllables": [
         "de5",
-        "Xia4",
+        "xia4",
         "long2",
-        "Wan1",
+        "wan1",
         "huo4",
         "shi4",
         "jian3",
         "pu3",
         "zhai4",
         "de5",
-        "Wu2",
+        "wu2",
         "ge1"
       ],
       "words": [
         "de5",
-        "Xia4 long2 Wan1",
+        "xia4 long2 wan1",
         "huo4 shi4",
         "jian3 pu3 zhai4",
         "de5",
-        "Wu2 ge1"
+        "wu2 ge1"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
@@ -4132,14 +4256,14 @@
     {
       "file": "audio/002.004.mp3",
       "fileName": "002.004.mp3",
-      "transcript": "ku1-qi2-zhong1-yi2-ge4-ling4-wo3-men5-fei1-chang2-hao4-qi2-de5-jiu4-shi4-wei4",
+      "transcript": "ku1-qi2-zhong1-yi2-ge4-ling3-wo3-men5-fei1-chang2-hao4-qi2-de5-jiu4-shi4-wei4",
       "syllables": [
         "ku1",
         "qi2",
         "zhong1",
         "yi2",
         "ge4",
-        "ling4",
+        "ling3",
         "wo3",
         "men5",
         "fei1",
@@ -4155,7 +4279,7 @@
         "ku1",
         "qi2 zhong1",
         "yi2 ge4",
-        "ling4",
+        "ling3",
         "wo3 men5",
         "fei1 chang2",
         "hao4 qi2",
@@ -4175,10 +4299,10 @@
     {
       "file": "audio/002.005.mp3",
       "fileName": "002.005.mp3",
-      "transcript": "zai4-Bo2-li4-zi1-de5-da4-lan2-dong4",
+      "transcript": "zai4-bo2-li4-zi1-de5-da4-lan2-dong4",
       "syllables": [
         "zai4",
-        "Bo2",
+        "bo2",
         "li4",
         "zi1",
         "de5",
@@ -4188,9 +4312,10 @@
       ],
       "words": [
         "zai4",
-        "Bo2 li4 zi1",
+        "bo2 li4 zi1",
         "de5",
-        "da4 lan2 dong4"
+        "da4",
+        "lan2 dong4"
       ],
       "syllableCount": 8,
       "difficulty": "L3",
@@ -4241,7 +4366,7 @@
     {
       "file": "audio/002.007.mp3",
       "fileName": "002.007.mp3",
-      "transcript": "shi4-shang4-qi1-da4-hai3-di3-qi2-jing3-zhi1-yi1-de5-cheng1",
+      "transcript": "shi4-shang4-qi1-da4-hai3-di3-qi2-jing3-zhi1-yi1-de5-chen4",
       "syllables": [
         "shi4",
         "shang4",
@@ -4254,7 +4379,7 @@
         "zhi1",
         "yi1",
         "de5",
-        "cheng1"
+        "chen4"
       ],
       "words": [
         "shi4 shang4",
@@ -4263,12 +4388,13 @@
         "qi2 jing3",
         "zhi1 yi1",
         "de5",
-        "cheng1"
+        "chen4"
       ],
       "syllableCount": 12,
       "difficulty": "L4",
       "hasTones": true,
       "contrasts": [
+        "n_final",
         "ng_final",
         "q_initial"
       ]
@@ -4372,7 +4498,8 @@
         "mi3",
         "shen1",
         "de5",
-        "da4 lan2 dong4"
+        "da4",
+        "lan2 dong4"
       ],
       "syllableCount": 9,
       "difficulty": "L3",
@@ -4578,6 +4705,47 @@
       ]
     },
     {
+      "file": "audio/002.016.mp3",
+      "fileName": "002.016.mp3",
+      "transcript": "mei2-you3-dai4-qi4-ping2-ya5-mei2-you3-suo3-yi3-hou4-mian4-de5-zhong1-jian1",
+      "syllables": [
+        "mei2",
+        "you3",
+        "dai4",
+        "qi4",
+        "ping2",
+        "ya5",
+        "mei2",
+        "you3",
+        "suo3",
+        "yi3",
+        "hou4",
+        "mian4",
+        "de5",
+        "zhong1",
+        "jian1"
+      ],
+      "words": [
+        "mei2 you3",
+        "dai4",
+        "qi4 ping2",
+        "ya5",
+        "mei2 you3",
+        "suo3 yi3",
+        "hou4 mian4",
+        "de5",
+        "zhong1 jian1"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
       "file": "audio/002.017.mp3",
       "fileName": "002.017.mp3",
       "transcript": "hui4-bi3-jiao4-bu4-hao3-hou4-mian4-zhong1-jian1-o5-zai4-dao4-da2",
@@ -4617,10 +4785,10 @@
     {
       "file": "audio/002.018.mp3",
       "fileName": "002.018.mp3",
-      "transcript": "le5-Bo2-li4-zi1-zhi1-hou4-wo3-men5-cong2-ben3-dao3-chu1-fa1",
+      "transcript": "le5-bo2-li4-zi1-zhi1-hou4-wo3-men5-cong2-ben3-dao3-chu1-fa1",
       "syllables": [
         "le5",
-        "Bo2",
+        "bo2",
         "li4",
         "zi1",
         "zhi1",
@@ -4635,7 +4803,7 @@
       ],
       "words": [
         "le5",
-        "Bo2 li4 zi1",
+        "bo2 li4 zi1",
         "zhi1 hou4",
         "wo3 men5",
         "cong2",
@@ -4653,7 +4821,7 @@
     {
       "file": "audio/002.019.mp3",
       "fileName": "002.019.mp3",
-      "transcript": "zuo4-chuan2-qian2-wang3-wei4-zai4-Bo2-li4-zi1-dong1-bian5-de5",
+      "transcript": "zuo4-chuan2-qian2-wang3-wei4-zai4-bo2-li4-zi1-dong1-bian5-de5",
       "syllables": [
         "zuo4",
         "chuan2",
@@ -4661,7 +4829,7 @@
         "wang3",
         "wei4",
         "zai4",
-        "Bo2",
+        "bo2",
         "li4",
         "zi1",
         "dong1",
@@ -4673,7 +4841,7 @@
         "qian2 wang3",
         "wei4",
         "zai4",
-        "Bo2 li4 zi1",
+        "bo2 li4 zi1",
         "dong1 bian5",
         "de5"
       ],
@@ -4689,16 +4857,16 @@
     {
       "file": "audio/002.020.mp3",
       "fileName": "002.020.mp3",
-      "transcript": "yi2-ge4-dao3-yu3-Ku4-er3-ke4-Dao3-ye3-jiu4-shi4-wo3-men5-zhe4",
+      "transcript": "yi2-ge4-dao3-yu3-ku4-er3-ke4-dao3-ye3-jiu4-shi4-wo3-men5-zhe4",
       "syllables": [
         "yi2",
         "ge4",
         "dao3",
         "yu3",
-        "Ku4",
+        "ku4",
         "er3",
         "ke4",
-        "Dao3",
+        "dao3",
         "ye3",
         "jiu4",
         "shi4",
@@ -4709,7 +4877,8 @@
       "words": [
         "yi2 ge4",
         "dao3 yu3",
-        "Ku4 er3 ke4 Dao3",
+        "ku4 er3",
+        "ke4 dao3",
         "ye3",
         "jiu4 shi4",
         "wo3 men5",
@@ -4748,9 +4917,7 @@
         "di4 dian3",
         "hao3",
         "wo3 men5",
-        "jin4",
-        "lan2",
-        "dong4",
+        "jin4 lan2 dong4",
         "qian2"
       ],
       "syllableCount": 13,
@@ -4895,9 +5062,11 @@
       "words": [
         "yu2",
         "neng2 gou4",
-        "qin1 yan3 mu4 du3",
+        "qin1 yan3",
+        "mu4 du3",
         "wo3 men5",
-        "qi1 dai4 yi3 jiu3"
+        "qi1 dai4",
+        "yi3 jiu3"
       ],
       "syllableCount": 13,
       "difficulty": "L4",
@@ -4926,7 +5095,8 @@
       ],
       "words": [
         "de5",
-        "da4 lan2 dong4",
+        "da4",
+        "lan2 dong4",
         "wa1",
         "hao3 shuai4",
         "o5",
@@ -4943,7 +5113,7 @@
     {
       "file": "audio/002.027.mp3",
       "fileName": "002.027.mp3",
-      "transcript": "fei1-ji1-ne5-dai1-hui4-r5-shui4-yi2-jiao4-a5-hao3-yun1-o5",
+      "transcript": "fei1-ji1-ne5-dai1-hui4-r5-shui4-yi1-jiao4-a5-hao3-yun1-o5",
       "syllables": [
         "fei1",
         "ji1",
@@ -4952,7 +5122,7 @@
         "hui4",
         "r5",
         "shui4",
-        "yi2",
+        "yi1",
         "jiao4",
         "a5",
         "hao3",
@@ -4963,7 +5133,7 @@
         "fei1 ji1",
         "ne5",
         "dai1 hui4 r5",
-        "shui4 yi2 jiao4",
+        "shui4 yi1 jiao4",
         "a5",
         "hao3",
         "yun1",
@@ -5131,7 +5301,7 @@
     {
       "file": "audio/002.032.mp3",
       "fileName": "002.032.mp3",
-      "transcript": "wo3-men5-ye3-zhun3-bei4-hao3-yao4-kai1-shi3-wo3-men5-zhen1-zheng4-de5-tiao3",
+      "transcript": "wo3-men5-ye3-zhun3-bei4-hao3-yao4-kai1-shi3-wo3-men5-zhen1-zheng4-de5-tiao1",
       "syllables": [
         "wo3",
         "men5",
@@ -5147,19 +5317,18 @@
         "zhen1",
         "zheng4",
         "de5",
-        "tiao3"
+        "tiao1"
       ],
       "words": [
         "wo3 men5",
         "ye3",
         "zhun3 bei4",
-        "hao3",
-        "yao4",
+        "hao3 yao4",
         "kai1 shi3",
         "wo3 men5",
         "zhen1 zheng4",
         "de5",
-        "tiao3"
+        "tiao1"
       ],
       "syllableCount": 15,
       "difficulty": "L4",
@@ -5251,7 +5420,7 @@
     {
       "file": "audio/002.035.mp3",
       "fileName": "002.035.mp3",
-      "transcript": "shuo1-shi4-ge4-tiao3-zhan4-shi4-yin1-wei4-bing4-bu2-shi4-suo3-you3-ren2-dou1",
+      "transcript": "shuo1-shi4-ge4-tiao3-zhan4-shi4-yin1-wei4-bing4-bu2-shi5-suo3-you3-ren2-dou1",
       "syllables": [
         "shuo1",
         "shi4",
@@ -5263,7 +5432,7 @@
         "wei4",
         "bing4",
         "bu2",
-        "shi4",
+        "shi5",
         "suo3",
         "you3",
         "ren2",
@@ -5276,7 +5445,7 @@
         "tiao3 zhan4",
         "shi4 yin1 wei4",
         "bing4",
-        "bu2 shi4",
+        "bu2 shi5",
         "suo3 you3 ren2",
         "dou1"
       ],
@@ -5312,8 +5481,7 @@
       "words": [
         "ke3 yi3",
         "qian2 shui3",
-        "jin4",
-        "da4 lan2 dong4",
+        "jin4 da4 lan2 dong4",
         "de5",
         "yin1 wei4",
         "ta1",
@@ -5351,7 +5519,8 @@
         "he2",
         "di4 xing2",
         "de5",
-        "fu4 za2 cheng2 du4",
+        "fu4 za2",
+        "cheng2 du4",
         "xiang3 yao4",
         "zai4",
         "da4"
@@ -5527,7 +5696,7 @@
     {
       "file": "audio/002.043.mp3",
       "fileName": "002.043.mp3",
-      "transcript": "yi3-qian2-de5-zhu3-yao4-ren4-wu4-yi4-nian2-ban4-mei2-you3-qian2-shui3",
+      "transcript": "yi3-qian2-de5-zhu3-yao4-ren4-wu5-yi1-nian2-ban4-mei2-you3-qian2-shui3",
       "syllables": [
         "yi3",
         "qian2",
@@ -5535,8 +5704,8 @@
         "zhu3",
         "yao4",
         "ren4",
-        "wu4",
-        "yi4",
+        "wu5",
+        "yi1",
         "nian2",
         "ban4",
         "mei2",
@@ -5548,8 +5717,8 @@
         "yi3 qian2",
         "de5",
         "zhu3 yao4",
-        "ren4 wu4",
-        "yi4 nian2",
+        "ren4 wu5",
+        "yi1 nian2",
         "ban4",
         "mei2 you3",
         "qian2 shui3"
@@ -5608,8 +5777,7 @@
       ],
       "words": [
         "qi2 shi2",
-        "wo3",
-        "man2",
+        "wo3 man2",
         "jin3 zhang1",
         "de5",
         "wo3",
@@ -5631,7 +5799,7 @@
     {
       "file": "audio/002.046.mp3",
       "fileName": "002.046.mp3",
-      "transcript": "ben3-kao3-shi4-wo3-de5-shu1-shi4-quan1",
+      "transcript": "ben3-kao3-shi4-wo3-de5-shu1-shi4-juan1",
       "syllables": [
         "ben3",
         "kao3",
@@ -5640,22 +5808,21 @@
         "de5",
         "shu1",
         "shi4",
-        "quan1"
+        "juan1"
       ],
       "words": [
-        "ben3",
-        "kao3",
+        "ben3 kao3",
         "shi4",
         "wo3",
         "de5",
-        "shu1 shi4 quan1"
+        "shu1 shi4",
+        "juan1"
       ],
       "syllableCount": 8,
       "difficulty": "L3",
       "hasTones": true,
       "contrasts": [
-        "n_final",
-        "q_initial"
+        "n_final"
       ]
     },
     {
@@ -5848,7 +6015,7 @@
     {
       "file": "audio/002.052.mp3",
       "fileName": "002.052.mp3",
-      "transcript": "qian2-shui3-yuan2-de5-shou3-yao4-ren4-wu4-jiu4-shi4-yao4-zhu4-yi4-zi4-ji3",
+      "transcript": "qian2-shui3-yuan2-de5-shou3-yao4-ren4-wu5-jiu4-shi4-yao4-zhu4-yi4-zi4-ji3",
       "syllables": [
         "qian2",
         "shui3",
@@ -5857,7 +6024,7 @@
         "shou3",
         "yao4",
         "ren4",
-        "wu4",
+        "wu5",
         "jiu4",
         "shi4",
         "yao4",
@@ -5869,7 +6036,8 @@
       "words": [
         "qian2 shui3 yuan2",
         "de5",
-        "shou3 yao4 ren4 wu4",
+        "shou3 yao4",
+        "ren4 wu5",
         "jiu4 shi4",
         "yao4",
         "zhu4 yi4",
@@ -5907,9 +6075,8 @@
       "words": [
         "de5",
         "an1 quan2",
-        "hen3",
-        "jiu3",
-        "mei2 you3",
+        "hen3 jiu3 mei2",
+        "you3",
         "qian2 shui3",
         "de5",
         "wo3 men5",
@@ -6012,7 +6179,7 @@
     {
       "file": "audio/002.057.mp3",
       "fileName": "002.057.mp3",
-      "transcript": "huan4-qi3-le5-hui2-yi4-you3-mei3-yi2-bu4-dou1-hui4-shuo1-ei4-dui4-dui4",
+      "transcript": "huan4-qi3-le5-hui2-yi4-you3-mei3-yi1-bu4-dou1-hui4-shuo1-ei4-dui4-dui4",
       "syllables": [
         "huan4",
         "qi3",
@@ -6021,7 +6188,7 @@
         "yi4",
         "you3",
         "mei3",
-        "yi2",
+        "yi1",
         "bu4",
         "dou1",
         "hui4",
@@ -6036,7 +6203,7 @@
         "hui2 yi4",
         "you3",
         "mei3",
-        "yi2 bu4",
+        "yi1 bu4",
         "dou1",
         "hui4",
         "shuo1",
@@ -6108,7 +6275,7 @@
     {
       "file": "audio/002.060.mp3",
       "fileName": "002.060.mp3",
-      "transcript": "gan3-jue2-hen3-jin3-zhang1-wo3-jue2-de5-yi1-kai1-shi3-hen3-qian3-suo3-yi3-hai2-hao3",
+      "transcript": "gan3-jue2-hen3-jin3-zhang1-wo3-jue2-de5-yi1-kai1-shi3-hen3-jian1-suo3-yi3-hai2-hao3",
       "syllables": [
         "gan3",
         "jue2",
@@ -6122,7 +6289,7 @@
         "kai1",
         "shi3",
         "hen3",
-        "qian3",
+        "jian1",
         "suo3",
         "yi3",
         "hai2",
@@ -6137,7 +6304,7 @@
         "yi1",
         "kai1 shi3",
         "hen3",
-        "qian3",
+        "jian1",
         "suo3 yi3",
         "hai2 hao3"
       ],
@@ -6146,8 +6313,7 @@
       "hasTones": true,
       "contrasts": [
         "n_final",
-        "ng_final",
-        "q_initial"
+        "ng_final"
       ]
     },
     {
@@ -6219,7 +6385,8 @@
         "wo3",
         "zai4",
         "kai1 jin4 qu4",
-        "ha1 ha1 ha1 ha1",
+        "ha1 ha1",
+        "ha1 ha1",
         "mei3"
       ],
       "syllableCount": 14,
@@ -6255,8 +6422,7 @@
         "yao4"
       ],
       "words": [
-        "ci4",
-        "chuan2",
+        "ci4 chuan2",
         "ting2 xia4 lai2",
         "dou1",
         "hao3",

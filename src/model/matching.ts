@@ -29,59 +29,163 @@ export function splitUserInput(input: string): string[] {
     .filter((s) => s.length > 0);
 }
 
+function baseSoundMatches(key: ParsedSyllable, user: ParsedSyllable): boolean {
+  return key.base.length > 0 && key.base === user.base;
+}
+
 /**
- * Compares one user answer against one sample's key syllables, positionally.
- * Alignment is driven by the key: missing user syllables become mismatches,
- * extra user syllables beyond the key length are ignored for scoring.
+ * Scores one already-aligned (key, user) pair. Alignment already guarantees
+ * the base sound matches (see compareSample), so soundCorrect is always
+ * true here -- the only open question is tone, in sounds_tones mode.
+ */
+function scoreAlignedPair(
+  keySyllable: string,
+  userRaw: string,
+  key: ParsedSyllable,
+  user: ParsedSyllable,
+  mode: Mode,
+): SyllableResult {
+  if (mode === "sounds" || key.tone === null) {
+    return {
+      keySyllable,
+      userSyllable: userRaw,
+      soundCorrect: true,
+      toneCorrect: null,
+      earned: 1,
+      possible: 1,
+    };
+  }
+  const toneCorrect = user.tone === key.tone;
+  return {
+    keySyllable,
+    userSyllable: userRaw,
+    soundCorrect: true,
+    toneCorrect,
+    earned: toneCorrect ? 1 : 0.5,
+    possible: 1,
+  };
+}
+
+/**
+ * Scores a key syllable that has no alignment partner but does have a
+ * "leftover" user syllable nearby (see compareSample) -- i.e. a genuine
+ * wrong guess, not an omission. Sound is wrong by construction (that's why
+ * it didn't align); tone is still graded independently in sounds_tones
+ * mode, so a wrong syllable that happens to carry the right tone digit
+ * still earns partial credit, same as this app has always done.
+ */
+function scoreMismatchedPair(
+  keySyllable: string,
+  userRaw: string,
+  key: ParsedSyllable,
+  user: ParsedSyllable,
+  mode: Mode,
+): SyllableResult {
+  if (mode === "sounds" || key.tone === null) {
+    return { keySyllable, userSyllable: userRaw, soundCorrect: false, toneCorrect: null, earned: 0, possible: 1 };
+  }
+  const toneCorrect = user.tone === key.tone;
+  return {
+    keySyllable,
+    userSyllable: userRaw,
+    soundCorrect: false,
+    toneCorrect,
+    earned: toneCorrect ? 0.5 : 0,
+    possible: 1,
+  };
+}
+
+function missingResult(keySyllable: string): SyllableResult {
+  return { keySyllable, userSyllable: null, soundCorrect: false, toneCorrect: null, earned: 0, possible: 1 };
+}
+
+/**
+ * Aligns the key syllables against the user's syllables using longest
+ * common subsequence (LCS), matched by base sound (tone-blind). This is
+ * what lets a single missed, mistyped, or extra syllable -- anywhere in the
+ * sentence, leading, trailing, or in the middle -- be skipped over without
+ * cascading into a positional shift that marks every syllable after it
+ * wrong too. Returns, per key index, the aligned user index or -1 if that
+ * key syllable has no alignment (a gap).
+ */
+function alignByBaseSound(key: ParsedSyllable[], user: ParsedSyllable[]): number[] {
+  const n = key.length;
+  const m = user.length;
+
+  // dp[i][j] = length of the best alignment between key[0..i) and user[0..j)
+  const dp: number[][] = Array.from({ length: n + 1 }, () => new Array<number>(m + 1).fill(0));
+  for (let i = 1; i <= n; i++) {
+    for (let j = 1; j <= m; j++) {
+      if (baseSoundMatches(key[i - 1]!, user[j - 1]!)) {
+        dp[i]![j] = dp[i - 1]![j - 1]! + 1;
+      } else {
+        dp[i]![j] = Math.max(dp[i - 1]![j]!, dp[i]![j - 1]!);
+      }
+    }
+  }
+
+  // Backtrack to recover which key index aligns to which user index.
+  const alignment = new Array<number>(n).fill(-1);
+  let i = n;
+  let j = m;
+  while (i > 0 && j > 0) {
+    if (baseSoundMatches(key[i - 1]!, user[j - 1]!) && dp[i]![j] === dp[i - 1]![j - 1]! + 1) {
+      alignment[i - 1] = j - 1;
+      i -= 1;
+      j -= 1;
+    } else if (dp[i - 1]![j]! >= dp[i]![j - 1]!) {
+      i -= 1; // key[i-1] is a gap: no alignable user syllable
+    } else {
+      j -= 1; // user[j-1] is extra/unmatched: ignored, same as today's "extra input" rule
+    }
+  }
+
+  return alignment;
+}
+
+/**
+ * Compares one user answer against one sample's key syllables. Uses a
+ * sequence alignment (see alignByBaseSound) rather than strict positional
+ * pairing, so gaps -- a missed leading syllable, a missed trailing one, or
+ * a single wrong/missing syllable stuck in the middle -- don't shift every
+ * syllable after them out of alignment.
+ *
+ * Key syllables that don't align are then, in a second pass, matched up
+ * with whatever *unaligned* user syllables are left over, in order --
+ * distinguishing "you typed something, it was just wrong" (scored as a
+ * mismatch, with independent tone credit) from "you didn't type anything
+ * for this at all" (scored as missing).
  */
 export function compareSample(
   keySyllables: string[],
   userInput: string,
   mode: Mode,
 ): SyllableResult[] {
-  const userSyllables = splitUserInput(userInput);
+  const userRaw = splitUserInput(userInput);
+  const key = keySyllables.map(parseSyllable);
+  const user = userRaw.map(parseSyllable);
+
+  const alignment = alignByBaseSound(key, user);
+
+  const consumedUserIndices = new Set(alignment.filter((j) => j !== -1));
+  const leftoverUserIndices = user.map((_, j) => j).filter((j) => !consumedUserIndices.has(j));
+
+  const unalignedKeyIndices = alignment.map((j, i) => (j === -1 ? i : -1)).filter((i) => i !== -1);
+  const leftoverPairing = new Map<number, number>(); // key index -> leftover user index
+  unalignedKeyIndices.forEach((keyIndex, k) => {
+    if (k < leftoverUserIndices.length) leftoverPairing.set(keyIndex, leftoverUserIndices[k]!);
+  });
 
   return keySyllables.map((keySyllable, i): SyllableResult => {
-    const userRaw = userSyllables[i] ?? null;
-    const key = parseSyllable(keySyllable);
-    const user = userRaw !== null ? parseSyllable(userRaw) : null;
-
-    const soundCorrect = user !== null && user.base === key.base && key.base.length > 0;
-
-    if (mode === "sounds") {
-      return {
-        keySyllable,
-        userSyllable: userRaw,
-        soundCorrect,
-        toneCorrect: null,
-        earned: soundCorrect ? 1 : 0,
-        possible: 1,
-      };
+    const alignedUserIndex = alignment[i]!;
+    if (alignedUserIndex !== -1) {
+      return scoreAlignedPair(keySyllable, userRaw[alignedUserIndex]!, key[i]!, user[alignedUserIndex]!, mode);
     }
-
-    // sounds_tones mode
-    if (key.tone === null) {
-      // Key carries no tone to grade against; syllable is worth full credit on sound alone.
-      return {
-        keySyllable,
-        userSyllable: userRaw,
-        soundCorrect,
-        toneCorrect: null,
-        earned: soundCorrect ? 1 : 0,
-        possible: 1,
-      };
+    const leftoverUserIndex = leftoverPairing.get(i);
+    if (leftoverUserIndex !== undefined) {
+      return scoreMismatchedPair(keySyllable, userRaw[leftoverUserIndex]!, key[i]!, user[leftoverUserIndex]!, mode);
     }
-
-    const toneCorrect = user !== null && user.tone === key.tone;
-    const earned = (soundCorrect ? 0.5 : 0) + (toneCorrect ? 0.5 : 0);
-    return {
-      keySyllable,
-      userSyllable: userRaw,
-      soundCorrect,
-      toneCorrect,
-      earned,
-      possible: 1,
-    };
+    return missingResult(keySyllable);
   });
 }
 
@@ -98,64 +202,61 @@ export function splitWordsInput(input: string): string[] {
 }
 
 /**
- * Whether every syllable in `userSyllables` matches the corresponding
- * syllable in `keySyllables`, position-by-position, under the given mode.
- * Unequal lengths are always a mismatch -- there's no partial credit for
- * getting "some of the syllables in a word" right at word granularity.
- */
-function allSyllablesMatch(
-  keySyllables: ReturnType<typeof parseSyllable>[],
-  userSyllables: ReturnType<typeof parseSyllable>[],
-  mode: Mode,
-): boolean {
-  if (keySyllables.length !== userSyllables.length) return false;
-  return keySyllables.every((key, i) => {
-    const user = userSyllables[i]!;
-    const soundOk = user.base === key.base && key.base.length > 0;
-    if (mode === "sounds") return soundOk;
-    if (key.tone === null) return soundOk; // nothing to grade the tone against
-    return soundOk && user.tone === key.tone;
-  });
-}
-
-/**
  * Compares one user answer against a sample's word-level key. Word mode is
  * a word-*identification* task, not a transcription-in-order task: order
- * doesn't matter, only which words were correctly captured and how many.
- * Each key word searches the user's comma-separated words for any
- * still-unconsumed match (in any position); once a user word satisfies a
- * key word it's consumed, so a repeated key word still needs a separate
- * matching user word for each occurrence. Each word is scored atomically
- * (see allSyllablesMatch): full credit only if every syllable in that word
- * matches, none otherwise. Unmatched key words and leftover/unmatched user
- * words are simply not counted, in either direction.
+ * doesn't matter, only which words were correctly captured, with partial
+ * credit for partially-correct words.
+ *
+ * For each key word, every still-unconsumed user word is scored as a
+ * candidate pairing by reusing compareSample -- a "word" is just a short
+ * syllable sequence, so the same gap-tolerant alignment and sound/tone
+ * partial-credit logic applies directly, without duplicating it. Whichever
+ * candidate earns the most is consumed (greedy best-match; not a globally
+ * optimal assignment, but sessions are short enough that this is a
+ * reasonable simplification -- the same class of trade-off the original
+ * order-independent matching already accepted).
+ *
+ * `possible` per word is that word's syllable count (not a flat 1), so a
+ * sample's total possible in word mode equals its total syllable count --
+ * the same denominator syllable mode uses. `soundCorrect` means "fully
+ * correct" (earned === possible), not merely "some match was found".
  */
 export function compareWords(keyWords: string[], userInput: string, mode: Mode): SyllableResult[] {
   const userWords = splitWordsInput(userInput);
-  const userSyllableSets = userWords.map((w) => splitUserInput(w).map(parseSyllable));
   const consumed = new Array<boolean>(userWords.length).fill(false);
 
   return keyWords.map((keyWord): SyllableResult => {
-    const keySyllables = splitUserInput(keyWord).map(parseSyllable);
+    const keySyllables = splitUserInput(keyWord);
+    const possible = keySyllables.length;
 
-    let matchIndex = -1;
+    let bestIndex = -1;
+    let bestUnits: SyllableResult[] | null = null;
+    let bestEarned = -1;
+
     for (let j = 0; j < userWords.length; j++) {
       if (consumed[j]) continue;
-      if (allSyllablesMatch(keySyllables, userSyllableSets[j]!, mode)) {
-        matchIndex = j;
-        break;
+      const units = compareSample(keySyllables, userWords[j]!, mode);
+      const earned = units.reduce((sum, u) => sum + u.earned, 0);
+      if (earned > bestEarned) {
+        bestEarned = earned;
+        bestIndex = j;
+        bestUnits = units;
       }
     }
-    const matched = matchIndex !== -1;
-    if (matched) consumed[matchIndex] = true;
 
-    return {
-      keySyllable: keyWord,
-      userSyllable: matched ? userWords[matchIndex]! : null,
-      soundCorrect: matched,
-      toneCorrect: null,
-      earned: matched ? 1 : 0,
-      possible: 1,
-    };
+    if (bestIndex !== -1 && bestEarned > 0) {
+      consumed[bestIndex] = true;
+      const earned = bestUnits!.reduce((sum, u) => sum + u.earned, 0);
+      return {
+        keySyllable: keyWord,
+        userSyllable: userWords[bestIndex]!,
+        soundCorrect: earned === possible,
+        toneCorrect: null,
+        earned,
+        possible,
+      };
+    }
+
+    return { keySyllable: keyWord, userSyllable: null, soundCorrect: false, toneCorrect: null, earned: 0, possible };
   });
 }

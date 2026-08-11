@@ -196,6 +196,79 @@ OVERRIDES = {
     "峰": ("feng1", "peak/summit"),
 }
 
+# Dictionary used to re-segment over-clustered jieba tokens (see
+# expand_token/split_suffix below). Restricted to entries of length >= 2:
+# nearly every individual hanzi is itself a valid CC-CEDICT entry, so
+# allowing 1-char matches here would peel off single characters everywhere
+# and degrade this back toward full atomization -- the opposite of what we
+# want (unmatched/unrecognized spans should stay together as one chunk).
+#
+# Splitting is suffix-only and single-split (not a full greedy scan of every
+# position). This was tightened after testing against real CC-CEDICT data
+# uncovered two failure modes of a naive "match anywhere, repeat" scan:
+#   1. Chinese proper-noun compounds are overwhelmingly head-final (name +
+#      a category/geographic suffix: 海沟 trench, 半岛 peninsula, 王国
+#      kingdom, ...). A match-anywhere scan also tries prefix/interior
+#      matches, which risks a real but *unrelated* short word coincidentally
+#      matching inside a transliterated name -- e.g. 马里亚纳 (Mariana) starts
+#      with 马里 (Mali, an unrelated country name in CC-CEDICT), which a
+#      match-anywhere scan would wrongly peel off as ['马里', '亚纳'].
+#      Restricting to a suffix match (and leaving the remainder as a single
+#      un-split chunk, not recursively re-scanned) avoids this: 马里亚纳 has
+#      no recognized *suffix*, so it correctly stays whole.
+#   2. CC-CEDICT itself already compiles some name+suffix compounds as a
+#      single entry (马里亚纳海沟 is one such entry) -- see expand_token,
+#      which now tries the suffix split *before* falling back to a whole-
+#      token dictionary match, so the split still happens even though the
+#      full compound is technically "known."
+FORCE_WORDS_SET = set(FORCE_WORDS)
+ATOMIC_LOOKUP = {k for k in (set(CEDICT.keys()) | set(OVERRIDES.keys()) | FORCE_WORDS_SET) if len(k) >= 2}
+MAX_LOOKUP_LEN = max(len(k) for k in ATOMIC_LOOKUP)
+
+def split_suffix(tok):
+    """If `tok` ends with a recognized (>=2-char) dictionary word AND at
+    least 2 characters remain before it, split it off: [remainder, suffix].
+    The remainder is returned as-is, not recursively re-split -- we have no
+    reliable linguistic signal for further splitting an unrecognized name,
+    and recursing risks the same kind of coincidental-match damage this
+    function exists to avoid. Returns None if no such suffix match exists.
+
+    The remainder >= 2 requirement (not merely non-empty) was added after
+    testing against real transcript data: a plain non-empty check let
+    unrelated short dictionary words coincidentally consume a proper noun's
+    tail and strand a single, linguistically meaningless character in
+    front -- e.g. 伯利兹 (Belize) has 利兹 (Leeds, an unrelated place name)
+    as a real CC-CEDICT suffix, which would strand a bare '伯' in front.
+    Requiring a >=2-char remainder rejects that split (伯利兹 has no other
+    valid suffix, so it correctly stays whole) while still allowing splits
+    between two genuine multi-character words on both sides."""
+    n = len(tok)
+    for length in range(min(MAX_LOOKUP_LEN, n - 2), 1, -1):  # length >= 2, remainder >= 2
+        if tok[n - length:] in ATOMIC_LOOKUP:
+            return [tok[:n - length], tok[n - length:]]
+    return None
+
+def expand_token(tok):
+    """Re-segments a single jieba token when it's an over-clustered CJK
+    span glued from an unrecognized name + a recognized common-noun suffix
+    (see split_suffix). Non-CJK tokens pass through unchanged. Curated
+    OVERRIDES/FORCE_WORDS entries always win outright (explicit human
+    curation beats automatic splitting). Otherwise: try the suffix split
+    first: even if the whole token happens to already be a compiled CC-CEDICT
+    entry (some geographic compounds are), we still prefer decomposing it
+    when a genuine suffix match exists, since that's the entire point of
+    this pass. Only if no suffix split is found do we fall back to keeping a
+    recognized whole token intact; failing that, it's left as one
+    unrecognized chunk -- never shattered to single characters."""
+    if not CJK_RE.match(tok):
+        return [tok]
+    if tok in OVERRIDES or tok in FORCE_WORDS_SET:
+        return [tok]
+    split = split_suffix(tok)
+    if split:
+        return split
+    return [tok]
+
 BAD_GLOSS_PREFIXES = ("surname ", "variant of ", "see ", "abbr. for ", "old variant of ",
                        "archaic variant of ", "used in", "(bound form)")
 
@@ -258,6 +331,7 @@ def parse_srt(path):
 
 def build_block(idx, timerange, text):
     tokens = jieba.lcut(text, HMM=True)
+    tokens = [sub for tok in tokens for sub in expand_token(tok)]
     c_parts, p_parts, e_parts, unresolved = [], [], [], []
     raw_buf = []
 

@@ -232,7 +232,7 @@ describe("ViewModel granularity", () => {
     vm.updateInput("ni3 hao3");
     vm.verify();
 
-    expect(vm.records.value[0]!.possible).toBe(1); // one word, not two syllables
-    expect(vm.records.value[0]!.earned).toBe(1);
+    expect(vm.records.value[0]!.possible).toBe(2); // one word, possible = its syllable count
+    expect(vm.records.value[0]!.earned).toBe(2);
   });
 });

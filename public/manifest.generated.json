@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:55:39.466Z",
+  "generatedAt": "2026-08-19T07:48:32.511Z",
   "samples": [
     {
       "file": "audio/001.001.mp3",
@@ -6549,6 +6549,4614 @@
       "difficulty": "L3",
       "hasTones": true,
       "contrasts": [
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.001.mp3",
+      "fileName": "lost-on-journey.001.001.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.002.mp3",
+      "fileName": "lost-on-journey.001.002.mp3",
+      "transcript": "jiang3-zuo4",
+      "syllables": [
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 2,
+      "difficulty": "L1",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.003.mp3",
+      "fileName": "lost-on-journey.001.003.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.004.mp3",
+      "fileName": "lost-on-journey.001.004.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.005.mp3",
+      "fileName": "lost-on-journey.001.005.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.006.mp3",
+      "fileName": "lost-on-journey.001.006.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.007.mp3",
+      "fileName": "lost-on-journey.001.007.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.008.mp3",
+      "fileName": "lost-on-journey.001.008.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.009.mp3",
+      "fileName": "lost-on-journey.001.009.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.010.mp3",
+      "fileName": "lost-on-journey.001.010.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.011.mp3",
+      "fileName": "lost-on-journey.001.011.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.012.mp3",
+      "fileName": "lost-on-journey.001.012.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.013.mp3",
+      "fileName": "lost-on-journey.001.013.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.014.mp3",
+      "fileName": "lost-on-journey.001.014.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.015.mp3",
+      "fileName": "lost-on-journey.001.015.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.016.mp3",
+      "fileName": "lost-on-journey.001.016.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.017.mp3",
+      "fileName": "lost-on-journey.001.017.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.018.mp3",
+      "fileName": "lost-on-journey.001.018.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.019.mp3",
+      "fileName": "lost-on-journey.001.019.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.020.mp3",
+      "fileName": "lost-on-journey.001.020.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.021.mp3",
+      "fileName": "lost-on-journey.001.021.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.022.mp3",
+      "fileName": "lost-on-journey.001.022.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.023.mp3",
+      "fileName": "lost-on-journey.001.023.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.024.mp3",
+      "fileName": "lost-on-journey.001.024.mp3",
+      "transcript": "huan1-ying2-lai2-dao4-wo3-de5-jiang3-zuo4",
+      "syllables": [
+        "huan1",
+        "ying2",
+        "lai2",
+        "dao4",
+        "wo3",
+        "de5",
+        "jiang3",
+        "zuo4"
+      ],
+      "words": [
+        "huan1 ying2",
+        "lai2 dao4",
+        "wo3",
+        "de5",
+        "jiang3 zuo4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.025.mp3",
+      "fileName": "lost-on-journey.001.025.mp3",
+      "transcript": "wo3-shuo1-ni3-kan4-fan3-zheng4-zhe4-zhuo1-shang4-yang3-de5-gong1-tie3",
+      "syllables": [
+        "wo3",
+        "shuo1",
+        "ni3",
+        "kan4",
+        "fan3",
+        "zheng4",
+        "zhe4",
+        "zhuo1",
+        "shang4",
+        "yang3",
+        "de5",
+        "gong1",
+        "tie3"
+      ],
+      "words": [
+        "wo3",
+        "shuo1",
+        "ni3",
+        "kan4",
+        "fan3 zheng4",
+        "zhe4",
+        "zhuo1 shang4",
+        "yang3",
+        "de5",
+        "gong1 tie3"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.026.mp3",
+      "fileName": "lost-on-journey.001.026.mp3",
+      "transcript": "shi4-de5-ni3-kan4-dou1-shi4-zhe4-san1-ju4-qing2-an4-nao4-de5-quan2",
+      "syllables": [
+        "shi4",
+        "de5",
+        "ni3",
+        "kan4",
+        "dou1",
+        "shi4",
+        "zhe4",
+        "san1",
+        "ju4",
+        "qing2",
+        "an4",
+        "nao4",
+        "de5",
+        "quan2"
+      ],
+      "words": [
+        "shi4 de5",
+        "ni3",
+        "kan4",
+        "dou1",
+        "shi4",
+        "zhe4",
+        "san1 ju4 qing2 an4",
+        "nao4",
+        "de5",
+        "quan2"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.027.mp3",
+      "fileName": "lost-on-journey.001.027.mp3",
+      "transcript": "guo2-duo1-shao3-nai3-lao4-han3-dou1-dao3-bi4-le5-zan2-men5-nai3",
+      "syllables": [
+        "guo2",
+        "duo1",
+        "shao3",
+        "nai3",
+        "lao4",
+        "han3",
+        "dou1",
+        "dao3",
+        "bi4",
+        "le5",
+        "zan2",
+        "men5",
+        "nai3"
+      ],
+      "words": [
+        "guo2",
+        "duo1 shao3",
+        "nai3 lao4",
+        "han3",
+        "dou1",
+        "dao3 bi4",
+        "le5",
+        "zan2 men5",
+        "nai3"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.028.mp3",
+      "fileName": "lost-on-journey.001.028.mp3",
+      "transcript": "lao4-han3-neng2-huo2-zhe5-yi3-jing1-bu4-rong2-yi4-le5-suo3-yi3-wo3-na3",
+      "syllables": [
+        "lao4",
+        "han3",
+        "neng2",
+        "huo2",
+        "zhe5",
+        "yi3",
+        "jing1",
+        "bu4",
+        "rong2",
+        "yi4",
+        "le5",
+        "suo3",
+        "yi3",
+        "wo3",
+        "na3"
+      ],
+      "words": [
+        "lao4 han3",
+        "neng2",
+        "huo2 zhe5",
+        "yi3 jing1",
+        "bu4",
+        "rong2 yi4",
+        "le5",
+        "suo3 yi3",
+        "wo3",
+        "na3"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.029.mp3",
+      "fileName": "lost-on-journey.001.029.mp3",
+      "transcript": "you3-qian2-gei3-ni3-ya5-ni3-shuo1-zhe4-na4-ni3-bu4-gei3-dian3",
+      "syllables": [
+        "you3",
+        "qian2",
+        "gei3",
+        "ni3",
+        "ya5",
+        "ni3",
+        "shuo1",
+        "zhe4",
+        "na4",
+        "ni3",
+        "bu4",
+        "gei3",
+        "dian3"
+      ],
+      "words": [
+        "you3 qian2",
+        "gei3",
+        "ni3",
+        "ya5",
+        "ni3",
+        "shuo1",
+        "zhe4",
+        "na4",
+        "ni3",
+        "bu4",
+        "gei3",
+        "dian3"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.030.mp3",
+      "fileName": "lost-on-journey.001.030.mp3",
+      "transcript": "na3-ge5-shou3-a5-na4-na4-na4-dou1-mang2-le5-yi1-nian2",
+      "syllables": [
+        "na3",
+        "ge5",
+        "shou3",
+        "a5",
+        "na4",
+        "na4",
+        "na4",
+        "dou1",
+        "mang2",
+        "le5",
+        "yi1",
+        "nian2"
+      ],
+      "words": [
+        "na3 ge5",
+        "shou3",
+        "a5",
+        "na4",
+        "na4",
+        "na4",
+        "dou1",
+        "mang2",
+        "le5",
+        "yi1 nian2"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.031.mp3",
+      "fileName": "lost-on-journey.001.031.mp3",
+      "transcript": "ni3-shi4-bu4-shi4-wu2-liang2-tie3-zhe4-huo2-ni3-xian4-zai4-gen1-wo3-shuo1-shen2-me5",
+      "syllables": [
+        "ni3",
+        "shi4",
+        "bu4",
+        "shi4",
+        "wu2",
+        "liang2",
+        "tie3",
+        "zhe4",
+        "huo2",
+        "ni3",
+        "xian4",
+        "zai4",
+        "gen1",
+        "wo3",
+        "shuo1",
+        "shen2",
+        "me5"
+      ],
+      "words": [
+        "ni3",
+        "shi4 bu4 shi4",
+        "wu2 liang2",
+        "tie3",
+        "zhe4 huo2",
+        "ni3",
+        "xian4 zai4",
+        "gen1",
+        "wo3",
+        "shuo1",
+        "shen2 me5"
+      ],
+      "syllableCount": 17,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.032.mp3",
+      "fileName": "lost-on-journey.001.032.mp3",
+      "transcript": "dou1-hang2-jiu4-shi4-bu4-neng2-ti2-qian2-yao4-bu4-zhe4-yang4-ni3-gen1-men5",
+      "syllables": [
+        "dou1",
+        "hang2",
+        "jiu4",
+        "shi4",
+        "bu4",
+        "neng2",
+        "ti2",
+        "qian2",
+        "yao4",
+        "bu4",
+        "zhe4",
+        "yang4",
+        "ni3",
+        "gen1",
+        "men5"
+      ],
+      "words": [
+        "dou1 hang2",
+        "jiu4 shi4",
+        "bu4 neng2",
+        "ti2 qian2",
+        "yao4",
+        "bu4",
+        "zhe4 yang4",
+        "ni3",
+        "gen1",
+        "men5"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.033.mp3",
+      "fileName": "lost-on-journey.001.033.mp3",
+      "transcript": "ji3-ge5-ba3-na4-ge5-niu2-qian1-zou3-yi1-tou2-fen1-le5-suan4",
+      "syllables": [
+        "ji3",
+        "ge5",
+        "ba3",
+        "na4",
+        "ge5",
+        "niu2",
+        "qian1",
+        "zou3",
+        "yi1",
+        "tou2",
+        "fen1",
+        "le5",
+        "suan4"
+      ],
+      "words": [
+        "ji3 ge5",
+        "ba3",
+        "na4 ge5",
+        "niu2",
+        "qian1 zou3",
+        "yi1 tou2",
+        "fen1",
+        "le5",
+        "suan4"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.034.mp3",
+      "fileName": "lost-on-journey.001.034.mp3",
+      "transcript": "le5-qian2-wo3-ken3-ding4-mei2-you3-ni3-shuo1-zhe4-hua4-ni3-ni3-zhe4",
+      "syllables": [
+        "le5",
+        "qian2",
+        "wo3",
+        "ken3",
+        "ding4",
+        "mei2",
+        "you3",
+        "ni3",
+        "shuo1",
+        "zhe4",
+        "hua4",
+        "ni3",
+        "ni3",
+        "zhe4"
+      ],
+      "words": [
+        "le5",
+        "qian2",
+        "wo3",
+        "ken3 ding4",
+        "mei2 you3",
+        "ni3",
+        "shuo1",
+        "zhe4 hua4",
+        "ni3",
+        "ni3",
+        "zhe4"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.035.mp3",
+      "fileName": "lost-on-journey.001.035.mp3",
+      "transcript": "bu2-shi5-qi1-fu5-ren2-ma5-ni3-zhe4-wo3-zen3-me5-qi1-fu5-ni3",
+      "syllables": [
+        "bu2",
+        "shi5",
+        "qi1",
+        "fu5",
+        "ren2",
+        "ma5",
+        "ni3",
+        "zhe4",
+        "wo3",
+        "zen3",
+        "me5",
+        "qi1",
+        "fu5",
+        "ni3"
+      ],
+      "words": [
+        "bu2 shi5",
+        "qi1 fu5",
+        "ren2",
+        "ma5",
+        "ni3",
+        "zhe4",
+        "wo3",
+        "zen3 me5",
+        "qi1 fu5",
+        "ni3"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.036.mp3",
+      "fileName": "lost-on-journey.001.036.mp3",
+      "transcript": "le5-wo3-zai4-wen4-ni3-zui4-hou4-yi1-ju4-you3-hai2-shi5-mei2-you3",
+      "syllables": [
+        "le5",
+        "wo3",
+        "zai4",
+        "wen4",
+        "ni3",
+        "zui4",
+        "hou4",
+        "yi1",
+        "ju4",
+        "you3",
+        "hai2",
+        "shi5",
+        "mei2",
+        "you3"
+      ],
+      "words": [
+        "le5",
+        "wo3",
+        "zai4",
+        "wen4",
+        "ni3",
+        "zui4 hou4",
+        "yi1 ju4",
+        "you3",
+        "hai2 shi5",
+        "mei2 you3"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.037.mp3",
+      "fileName": "lost-on-journey.001.037.mp3",
+      "transcript": "wo3-ye3-zui4-hou4-shuo1-yi1-ju4-mei2-you3-shen2-me5-ge1-men5-r5-ni3",
+      "syllables": [
+        "wo3",
+        "ye3",
+        "zui4",
+        "hou4",
+        "shuo1",
+        "yi1",
+        "ju4",
+        "mei2",
+        "you3",
+        "shen2",
+        "me5",
+        "ge1",
+        "men5",
+        "r5",
+        "ni3"
+      ],
+      "words": [
+        "wo3",
+        "ye3",
+        "zui4 hou4",
+        "shuo1",
+        "yi1 ju4",
+        "mei2 you3",
+        "shen2 me5",
+        "ge1 men5 r5",
+        "ni3"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.038.mp3",
+      "fileName": "lost-on-journey.001.038.mp3",
+      "transcript": "men5-gan4-shen2-me5-you3-hai2-shi5-mei2-you3-wo3-zhen1-de5-mei2-you3-qian2-le5-bu4",
+      "syllables": [
+        "men5",
+        "gan4",
+        "shen2",
+        "me5",
+        "you3",
+        "hai2",
+        "shi5",
+        "mei2",
+        "you3",
+        "wo3",
+        "zhen1",
+        "de5",
+        "mei2",
+        "you3",
+        "qian2",
+        "le5",
+        "bu4"
+      ],
+      "words": [
+        "men5",
+        "gan4 shen2 me5",
+        "you3",
+        "hai2 shi5",
+        "mei2 you3",
+        "wo3",
+        "zhen1 de5",
+        "mei2 you3",
+        "qian2",
+        "le5",
+        "bu4"
+      ],
+      "syllableCount": 17,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.039.mp3",
+      "fileName": "lost-on-journey.001.039.mp3",
+      "transcript": "xin4-ni3-kan4-a5-ni3-kan4-ni3-kan4-ni3-kan4-guang3-zhou1-de5-lao3-ban3-qian4",
+      "syllables": [
+        "xin4",
+        "ni3",
+        "kan4",
+        "a5",
+        "ni3",
+        "kan4",
+        "ni3",
+        "kan4",
+        "ni3",
+        "kan4",
+        "guang3",
+        "zhou1",
+        "de5",
+        "lao3",
+        "ban3",
+        "qian4"
+      ],
+      "words": [
+        "xin4",
+        "ni3",
+        "kan4",
+        "a5",
+        "ni3",
+        "kan4",
+        "ni3",
+        "kan4",
+        "ni3",
+        "kan4",
+        "guang3 zhou1",
+        "de5",
+        "lao3 ban3",
+        "qian4"
+      ],
+      "syllableCount": 16,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.040.mp3",
+      "fileName": "lost-on-journey.001.040.mp3",
+      "transcript": "wo3-wu3-wan4-kuai4-qian2-hai2-you3-zhe4-ge5-chang2-sha1-de5-lao3-ban3",
+      "syllables": [
+        "wo3",
+        "wu3",
+        "wan4",
+        "kuai4",
+        "qian2",
+        "hai2",
+        "you3",
+        "zhe4",
+        "ge5",
+        "chang2",
+        "sha1",
+        "de5",
+        "lao3",
+        "ban3"
+      ],
+      "words": [
+        "wo3",
+        "wu3 wan4 kuai4",
+        "qian2",
+        "hai2 you3",
+        "zhe4 ge5",
+        "chang2 sha1",
+        "de5",
+        "lao3 ban3"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.041.mp3",
+      "fileName": "lost-on-journey.001.041.mp3",
+      "transcript": "qian4-wo3-liang3-wan4-kuai4-qian2-hai2-you3-zhe4-ge5-cheng2-du1-de5-lao3",
+      "syllables": [
+        "qian4",
+        "wo3",
+        "liang3",
+        "wan4",
+        "kuai4",
+        "qian2",
+        "hai2",
+        "you3",
+        "zhe4",
+        "ge5",
+        "cheng2",
+        "du1",
+        "de5",
+        "lao3"
+      ],
+      "words": [
+        "qian4",
+        "wo3",
+        "liang3 wan4 kuai4",
+        "qian2",
+        "hai2 you3",
+        "zhe4 ge5",
+        "cheng2 du1",
+        "de5",
+        "lao3"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.042.mp3",
+      "fileName": "lost-on-journey.001.042.mp3",
+      "transcript": "ban3-qian4-wo3-ba1-wan4-kuai4-qian2-ne5-wo3-zhen1-de5-mei2-you3-qian2",
+      "syllables": [
+        "ban3",
+        "qian4",
+        "wo3",
+        "ba1",
+        "wan4",
+        "kuai4",
+        "qian2",
+        "ne5",
+        "wo3",
+        "zhen1",
+        "de5",
+        "mei2",
+        "you3",
+        "qian2"
+      ],
+      "words": [
+        "ban3",
+        "qian4",
+        "wo3",
+        "ba1 wan4 kuai4",
+        "qian2",
+        "ne5",
+        "wo3",
+        "zhen1 de5",
+        "mei2 you3",
+        "qian2"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.043.mp3",
+      "fileName": "lost-on-journey.001.043.mp3",
+      "transcript": "le5-ni3-men5-you3-ben3-shi4-ni3-men5-zi4-ji3-qu4-yao4-qu4-sha2-dao4",
+      "syllables": [
+        "le5",
+        "ni3",
+        "men5",
+        "you3",
+        "ben3",
+        "shi4",
+        "ni3",
+        "men5",
+        "zi4",
+        "ji3",
+        "qu4",
+        "yao4",
+        "qu4",
+        "sha2",
+        "dao4"
+      ],
+      "words": [
+        "le5",
+        "ni3 men5",
+        "you3",
+        "ben3 shi4",
+        "ni3 men5",
+        "zi4 ji3",
+        "qu4",
+        "yao4",
+        "qu4",
+        "sha2",
+        "dao4"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.044.mp3",
+      "fileName": "lost-on-journey.001.044.mp3",
+      "transcript": "chang2-sha1-sha2-sha2-dai4-biao3-sha2-jia1-sha2-sha2-sha2",
+      "syllables": [
+        "chang2",
+        "sha1",
+        "sha2",
+        "sha2",
+        "dai4",
+        "biao3",
+        "sha2",
+        "jia1",
+        "sha2",
+        "sha2",
+        "sha2"
+      ],
+      "words": [
+        "chang2 sha1",
+        "sha2",
+        "sha2",
+        "dai4 biao3",
+        "sha2",
+        "jia1",
+        "sha2",
+        "sha2",
+        "sha2"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.045.mp3",
+      "fileName": "lost-on-journey.001.045.mp3",
+      "transcript": "sha2-xie3-de5-zhen1-shi5-sha2-sha2-wo3-jiu4-bai3-ming2-bai5-le5-ni3",
+      "syllables": [
+        "sha2",
+        "xie3",
+        "de5",
+        "zhen1",
+        "shi5",
+        "sha2",
+        "sha2",
+        "wo3",
+        "jiu4",
+        "bai3",
+        "ming2",
+        "bai5",
+        "le5",
+        "ni3"
+      ],
+      "words": [
+        "sha2",
+        "xie3",
+        "de5",
+        "zhen1 shi5",
+        "sha2",
+        "sha2",
+        "wo3",
+        "jiu4",
+        "bai3",
+        "ming2 bai5",
+        "le5",
+        "ni3"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.046.mp3",
+      "fileName": "lost-on-journey.001.046.mp3",
+      "transcript": "wei3-suan4-fei1-yao4-na3-zhang1-chang2-sha1-de5-le5-na3-zhang1",
+      "syllables": [
+        "wei3",
+        "suan4",
+        "fei1",
+        "yao4",
+        "na3",
+        "zhang1",
+        "chang2",
+        "sha1",
+        "de5",
+        "le5",
+        "na3",
+        "zhang1"
+      ],
+      "words": [
+        "wei3 suan4",
+        "fei1 yao4",
+        "na3 zhang1",
+        "chang2 sha1",
+        "de5",
+        "le5",
+        "na3 zhang1"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.047.mp3",
+      "fileName": "lost-on-journey.001.047.mp3",
+      "transcript": "cheng2-du1-de5-ke3-zhi2-ba1-wan4-le5-sha2-ni3-lao3-ban3",
+      "syllables": [
+        "cheng2",
+        "du1",
+        "de5",
+        "ke3",
+        "zhi2",
+        "ba1",
+        "wan4",
+        "le5",
+        "sha2",
+        "ni3",
+        "lao3",
+        "ban3"
+      ],
+      "words": [
+        "cheng2 du1",
+        "de5",
+        "ke3 zhi2",
+        "ba1 wan4",
+        "le5",
+        "sha2",
+        "ni3",
+        "lao3 ban3"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.048.mp3",
+      "fileName": "lost-on-journey.001.048.mp3",
+      "transcript": "yi1-gong4-qian4-ta1-duo1-shao3-qian2-zan2-men5-si4-ge4-ren2-yi1",
+      "syllables": [
+        "yi1",
+        "gong4",
+        "qian4",
+        "ta1",
+        "duo1",
+        "shao3",
+        "qian2",
+        "zan2",
+        "men5",
+        "si4",
+        "ge4",
+        "ren2",
+        "yi1"
+      ],
+      "words": [
+        "yi1 gong4",
+        "qian4",
+        "ta1",
+        "duo1 shao3",
+        "qian2",
+        "zan2 men5",
+        "si4 ge4",
+        "ren2 yi1"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.049.mp3",
+      "fileName": "lost-on-journey.001.049.mp3",
+      "transcript": "gong4-jiao1-jin4-lai2-cai2-liang3-wan4-kuai4-qian2-ni3-gei3-ta1",
+      "syllables": [
+        "gong4",
+        "jiao1",
+        "jin4",
+        "lai2",
+        "cai2",
+        "liang3",
+        "wan4",
+        "kuai4",
+        "qian2",
+        "ni3",
+        "gei3",
+        "ta1"
+      ],
+      "words": [
+        "gong4 jiao1",
+        "jin4 lai2",
+        "cai2",
+        "liang3 wan4 kuai4",
+        "qian2",
+        "ni3",
+        "gei3",
+        "ta1"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.050.mp3",
+      "fileName": "lost-on-journey.001.050.mp3",
+      "transcript": "yao4-bao4-a5-na4-za3-cheng2-sha2-le5-wo3-gen1-ni3-shuo1-a5-ren2",
+      "syllables": [
+        "yao4",
+        "bao4",
+        "a5",
+        "na4",
+        "za3",
+        "cheng2",
+        "sha2",
+        "le5",
+        "wo3",
+        "gen1",
+        "ni3",
+        "shuo1",
+        "a5",
+        "ren2"
+      ],
+      "words": [
+        "yao4 bao4",
+        "a5",
+        "na4",
+        "za3",
+        "cheng2",
+        "sha2",
+        "le5",
+        "wo3",
+        "gen1",
+        "ni3",
+        "shuo1",
+        "a5",
+        "ren2"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.051.mp3",
+      "fileName": "lost-on-journey.001.051.mp3",
+      "transcript": "ke3-yi3-bu4-zi4-liang4-li4-de5-hou4-dao5-song4",
+      "syllables": [
+        "ke3",
+        "yi3",
+        "bu4",
+        "zi4",
+        "liang4",
+        "li4",
+        "de5",
+        "hou4",
+        "dao5",
+        "song4"
+      ],
+      "words": [
+        "ke3 yi3",
+        "bu4 zi4",
+        "liang4 li4",
+        "de5",
+        "hou4 dao5",
+        "song4"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.052.mp3",
+      "fileName": "lost-on-journey.001.052.mp3",
+      "transcript": "gei3-ni3-ni3-jin1-nian2-guo4-nian2-bie2-hui2-jia1-le5-ni3-zai4-zhe4",
+      "syllables": [
+        "gei3",
+        "ni3",
+        "ni3",
+        "jin1",
+        "nian2",
+        "guo4",
+        "nian2",
+        "bie2",
+        "hui2",
+        "jia1",
+        "le5",
+        "ni3",
+        "zai4",
+        "zhe4"
+      ],
+      "words": [
+        "gei3",
+        "ni3",
+        "ni3",
+        "jin1 nian2",
+        "guo4 nian2",
+        "bie2",
+        "hui2 jia1",
+        "le5",
+        "ni3",
+        "zai4",
+        "zhe4"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.053.mp3",
+      "fileName": "lost-on-journey.001.053.mp3",
+      "transcript": "pei2-wo3-guo4-nian2-ba5-li2-hun1-de5-shi4-ni3-da2-dian4",
+      "syllables": [
+        "pei2",
+        "wo3",
+        "guo4",
+        "nian2",
+        "ba5",
+        "li2",
+        "hun1",
+        "de5",
+        "shi4",
+        "ni3",
+        "da2",
+        "dian4"
+      ],
+      "words": [
+        "pei2",
+        "wo3",
+        "guo4 nian2",
+        "ba5",
+        "li2 hun1",
+        "de5",
+        "shi4",
+        "ni3",
+        "da2 dian4"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.054.mp3",
+      "fileName": "lost-on-journey.001.054.mp3",
+      "transcript": "hua4-gen1-ni3-lao3-po2-shuo1-ba5-zhe4-shi4-dian4-hua4-li3-zen3-me5",
+      "syllables": [
+        "hua4",
+        "gen1",
+        "ni3",
+        "lao3",
+        "po2",
+        "shuo1",
+        "ba5",
+        "zhe4",
+        "shi4",
+        "dian4",
+        "hua4",
+        "li3",
+        "zen3",
+        "me5"
+      ],
+      "words": [
+        "hua4",
+        "gen1",
+        "ni3",
+        "lao3 po2",
+        "shuo1",
+        "ba5",
+        "zhe4 shi4",
+        "dian4 hua4",
+        "li3",
+        "zen3 me5"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.055.mp3",
+      "fileName": "lost-on-journey.001.055.mp3",
+      "transcript": "shuo1-de5-qing1-chu5-ne5-wo3-mei3-nian2-zhi3-hui2-yi1-ci4-jia1-ni3",
+      "syllables": [
+        "shuo1",
+        "de5",
+        "qing1",
+        "chu5",
+        "ne5",
+        "wo3",
+        "mei3",
+        "nian2",
+        "zhi3",
+        "hui2",
+        "yi1",
+        "ci4",
+        "jia1",
+        "ni3"
+      ],
+      "words": [
+        "shuo1",
+        "de5",
+        "qing1 chu5",
+        "ne5",
+        "wo3",
+        "mei3 nian2",
+        "zhi3 hui2",
+        "yi1 ci4",
+        "jia1",
+        "ni3"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.056.mp3",
+      "fileName": "lost-on-journey.001.056.mp3",
+      "transcript": "zong3-dei3-rang4-wo3-kan4-kan5-nu:3-er2-ba5-na4-wo3-guo4-nian2",
+      "syllables": [
+        "zong3",
+        "dei3",
+        "rang4",
+        "wo3",
+        "kan4",
+        "kan5",
+        "nu:3",
+        "er2",
+        "ba5",
+        "na4",
+        "wo3",
+        "guo4",
+        "nian2"
+      ],
+      "words": [
+        "zong3 dei3",
+        "rang4",
+        "wo3",
+        "kan4 kan5",
+        "nu:3 er2",
+        "ba5",
+        "na4",
+        "wo3",
+        "guo4 nian2"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.057.mp3",
+      "fileName": "lost-on-journey.001.057.mp3",
+      "transcript": "qu4-kan4-ni3-gan4-ma2-gei3-ni3-bai4-nian2-ya5-shun4-bian4",
+      "syllables": [
+        "qu4",
+        "kan4",
+        "ni3",
+        "gan4",
+        "ma2",
+        "gei3",
+        "ni3",
+        "bai4",
+        "nian2",
+        "ya5",
+        "shun4",
+        "bian4"
+      ],
+      "words": [
+        "qu4",
+        "kan4",
+        "ni3",
+        "gan4 ma2",
+        "gei3",
+        "ni3",
+        "bai4 nian2",
+        "ya5",
+        "shun4 bian4"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.058.mp3",
+      "fileName": "lost-on-journey.001.058.mp3",
+      "transcript": "kan4-kan5-ni3-lao3-po2-hai2-zi5-da2-ge4-zhao1-hu5-zhen1-de5-jia3-de5",
+      "syllables": [
+        "kan4",
+        "kan5",
+        "ni3",
+        "lao3",
+        "po2",
+        "hai2",
+        "zi5",
+        "da2",
+        "ge4",
+        "zhao1",
+        "hu5",
+        "zhen1",
+        "de5",
+        "jia3",
+        "de5"
+      ],
+      "words": [
+        "kan4 kan5",
+        "ni3",
+        "lao3 po2",
+        "hai2 zi5",
+        "da2 ge4",
+        "zhao1 hu5",
+        "zhen1 de5 jia3",
+        "de5"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.059.mp3",
+      "fileName": "lost-on-journey.001.059.mp3",
+      "transcript": "ni3-jue2-de5-ne5-bie2-nao4-le5-chu1-wu3-wo3-jiu4-lai2-jie1-ni3",
+      "syllables": [
+        "ni3",
+        "jue2",
+        "de5",
+        "ne5",
+        "bie2",
+        "nao4",
+        "le5",
+        "chu1",
+        "wu3",
+        "wo3",
+        "jiu4",
+        "lai2",
+        "jie1",
+        "ni3"
+      ],
+      "words": [
+        "ni3",
+        "jue2 de5",
+        "ne5",
+        "bie2 nao4",
+        "le5",
+        "chu1 wu3",
+        "wo3",
+        "jiu4",
+        "lai2",
+        "jie1",
+        "ni3"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/lost-on-journey.001.060.mp3",
+      "fileName": "lost-on-journey.001.060.mp3",
+      "transcript": "zen3-me5-le5-wo3-huai2-yun4-le5-bu4-hui4-ba5-zhen1-de5-wo3-jin1-tian1-zao3-shang5",
+      "syllables": [
+        "zen3",
+        "me5",
+        "le5",
+        "wo3",
+        "huai2",
+        "yun4",
+        "le5",
+        "bu4",
+        "hui4",
+        "ba5",
+        "zhen1",
+        "de5",
+        "wo3",
+        "jin1",
+        "tian1",
+        "zao3",
+        "shang5"
+      ],
+      "words": [
+        "zen3 me5",
+        "le5",
+        "wo3",
+        "huai2 yun4",
+        "le5",
+        "bu4 hui4",
+        "ba5",
+        "zhen1 de5",
+        "wo3",
+        "jin1 tian1",
+        "zao3 shang5"
+      ],
+      "syllableCount": 17,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.061.mp3",
+      "fileName": "lost-on-journey.001.061.mp3",
+      "transcript": "gang1-yan4-chu1-lai2-de5-kan4-ba3-ni3-he4-de5-lian3-dou1-bai2",
+      "syllables": [
+        "gang1",
+        "yan4",
+        "chu1",
+        "lai2",
+        "de5",
+        "kan4",
+        "ba3",
+        "ni3",
+        "he4",
+        "de5",
+        "lian3",
+        "dou1",
+        "bai2"
+      ],
+      "words": [
+        "gang1 yan4",
+        "chu1 lai2",
+        "de5",
+        "kan4",
+        "ba3",
+        "ni3",
+        "he4",
+        "de5",
+        "lian3",
+        "dou1",
+        "bai2"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/lost-on-journey.001.062.mp3",
+      "fileName": "lost-on-journey.001.062.mp3",
+      "transcript": "le5-bie2-nao4-le5",
+      "syllables": [
+        "le5",
+        "bie2",
+        "nao4",
+        "le5"
+      ],
+      "words": [
+        "le5",
+        "bie2 nao4",
+        "le5"
+      ],
+      "syllableCount": 4,
+      "difficulty": "L1",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/peppa001.001.mp3",
+      "fileName": "peppa001.001.mp3",
+      "transcript": "wo3-shi4-pei4-qi2",
+      "syllables": [
+        "wo3",
+        "shi4",
+        "pei4",
+        "qi2"
+      ],
+      "words": [
+        "wo3",
+        "shi4",
+        "pei4 qi2"
+      ],
+      "syllableCount": 4,
+      "difficulty": "L1",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.002.mp3",
+      "fileName": "peppa001.002.mp3",
+      "transcript": "zhe4-shi4-wo3-de5-di4-di5-qiao2-zhi4",
+      "syllables": [
+        "zhe4",
+        "shi4",
+        "wo3",
+        "de5",
+        "di4",
+        "di5",
+        "qiao2",
+        "zhi4"
+      ],
+      "words": [
+        "zhe4",
+        "shi4",
+        "wo3",
+        "de5",
+        "di4 di5",
+        "qiao2 zhi4"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.003.mp3",
+      "fileName": "peppa001.003.mp3",
+      "transcript": "zhe4-shi4-wo3-de5-ma1-ma5",
+      "syllables": [
+        "zhe4",
+        "shi4",
+        "wo3",
+        "de5",
+        "ma1",
+        "ma5"
+      ],
+      "words": [
+        "zhe4",
+        "shi4",
+        "wo3",
+        "de5",
+        "ma1 ma5"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/peppa001.004.mp3",
+      "fileName": "peppa001.004.mp3",
+      "transcript": "zhe4-shi4-wo3-de5-ba4-ba5",
+      "syllables": [
+        "zhe4",
+        "shi4",
+        "wo3",
+        "de5",
+        "ba4",
+        "ba5"
+      ],
+      "words": [
+        "zhe4",
+        "shi4",
+        "wo3",
+        "de5",
+        "ba4 ba5"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/peppa001.005.mp3",
+      "fileName": "peppa001.005.mp3",
+      "transcript": "xiao3-zhu1-pei4-qi2",
+      "syllables": [
+        "xiao3",
+        "zhu1",
+        "pei4",
+        "qi2"
+      ],
+      "words": [
+        "xiao3 zhu1",
+        "pei4 qi2"
+      ],
+      "syllableCount": 4,
+      "difficulty": "L1",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.006.mp3",
+      "fileName": "peppa001.006.mp3",
+      "transcript": "xin1-xie2-zi5",
+      "syllables": [
+        "xin1",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "xin1",
+        "xie2 zi5"
+      ],
+      "syllableCount": 3,
+      "difficulty": "L1",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.007.mp3",
+      "fileName": "peppa001.007.mp3",
+      "transcript": "pei4-qi2-he2-qiao2-zhi4-zai4-hua1-yuan2-li3-wan2-r5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "he2",
+        "qiao2",
+        "zhi4",
+        "zai4",
+        "hua1",
+        "yuan2",
+        "li3",
+        "wan2",
+        "r5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "he2",
+        "qiao2 zhi4",
+        "zai4",
+        "hua1 yuan2 li3",
+        "wan2 r5"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.008.mp3",
+      "fileName": "peppa001.008.mp3",
+      "transcript": "pei4-qi2-ni3-de5-xie2-zi5-ne5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "ni3",
+        "de5",
+        "xie2",
+        "zi5",
+        "ne5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "ni3",
+        "de5",
+        "xie2 zi5",
+        "ne5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.009.mp3",
+      "fileName": "peppa001.009.mp3",
+      "transcript": "o1-wo3-zhao3-bu4-dao4-le5",
+      "syllables": [
+        "o1",
+        "wo3",
+        "zhao3",
+        "bu4",
+        "dao4",
+        "le5"
+      ],
+      "words": [
+        "o1",
+        "wo3",
+        "zhao3",
+        "bu4 dao4",
+        "le5"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/peppa001.010.mp3",
+      "fileName": "peppa001.010.mp3",
+      "transcript": "wo3-que4-ding4-wo3-men5-neng2-zhao3-dao4-ta1-men5",
+      "syllables": [
+        "wo3",
+        "que4",
+        "ding4",
+        "wo3",
+        "men5",
+        "neng2",
+        "zhao3",
+        "dao4",
+        "ta1",
+        "men5"
+      ],
+      "words": [
+        "wo3",
+        "que4 ding4",
+        "wo3 men5",
+        "neng2",
+        "zhao3 dao4",
+        "ta1 men5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.011.mp3",
+      "fileName": "peppa001.011.mp3",
+      "transcript": "yao4-bu4-ran2-wo3-men5-qu4-hua1-yuan2-li3-zhao3-zhao3-ba5",
+      "syllables": [
+        "yao4",
+        "bu4",
+        "ran2",
+        "wo3",
+        "men5",
+        "qu4",
+        "hua1",
+        "yuan2",
+        "li3",
+        "zhao3",
+        "zhao3",
+        "ba5"
+      ],
+      "words": [
+        "yao4 bu4 ran2",
+        "wo3 men5",
+        "qu4",
+        "hua1 yuan2 li3",
+        "zhao3",
+        "zhao3",
+        "ba5"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.012.mp3",
+      "fileName": "peppa001.012.mp3",
+      "transcript": "hao3-de5-ma1-ma5",
+      "syllables": [
+        "hao3",
+        "de5",
+        "ma1",
+        "ma5"
+      ],
+      "words": [
+        "hao3",
+        "de5",
+        "ma1 ma5"
+      ],
+      "syllableCount": 4,
+      "difficulty": "L1",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/peppa001.013.mp3",
+      "fileName": "peppa001.013.mp3",
+      "transcript": "da4-jia1-dou1-zai4-xun2-zhao3-pei4-qi2-de5-xie2-zi5",
+      "syllables": [
+        "da4",
+        "jia1",
+        "dou1",
+        "zai4",
+        "xun2",
+        "zhao3",
+        "pei4",
+        "qi2",
+        "de5",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "da4 jia1",
+        "dou1",
+        "zai4",
+        "xun2 zhao3",
+        "pei4 qi2",
+        "de5",
+        "xie2 zi5"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.014.mp3",
+      "fileName": "peppa001.014.mp3",
+      "transcript": "zhu1-ma1-ma5-zai4-hua1-tan2-li3-zhao3-xie2-zi5",
+      "syllables": [
+        "zhu1",
+        "ma1",
+        "ma5",
+        "zai4",
+        "hua1",
+        "tan2",
+        "li3",
+        "zhao3",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "zhu1",
+        "ma1 ma5",
+        "zai4",
+        "hua1 tan2",
+        "li3",
+        "zhao3",
+        "xie2 zi5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.015.mp3",
+      "fileName": "peppa001.015.mp3",
+      "transcript": "pei4-qi2-de5-xie2-zi5-bu4-zai4-na4-r5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "de5",
+        "xie2",
+        "zi5",
+        "bu4",
+        "zai4",
+        "na4",
+        "r5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "de5",
+        "xie2 zi5",
+        "bu4",
+        "zai4",
+        "na4 r5"
+      ],
+      "syllableCount": 9,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.016.mp3",
+      "fileName": "peppa001.016.mp3",
+      "transcript": "zhu1-ba4-ba5-zai4-shou3-tui1-che1-li3-zhao3-xie2-zi5",
+      "syllables": [
+        "zhu1",
+        "ba4",
+        "ba5",
+        "zai4",
+        "shou3",
+        "tui1",
+        "che1",
+        "li3",
+        "zhao3",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "zhu1",
+        "ba4 ba5",
+        "zai4",
+        "shou3 tui1 che1",
+        "li3",
+        "zhao3",
+        "xie2 zi5"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.017.mp3",
+      "fileName": "peppa001.017.mp3",
+      "transcript": "pei4-qi2-de5-xie2-zi5-bu4-zai4-na4-r5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "de5",
+        "xie2",
+        "zi5",
+        "bu4",
+        "zai4",
+        "na4",
+        "r5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "de5",
+        "xie2 zi5",
+        "bu4",
+        "zai4",
+        "na4 r5"
+      ],
+      "syllableCount": 9,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.018.mp3",
+      "fileName": "peppa001.018.mp3",
+      "transcript": "pei4-qi2-he2-qiao2-zhi4-zai4-hua1-pen2-li3-zhao3-xie2-zi5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "he2",
+        "qiao2",
+        "zhi4",
+        "zai4",
+        "hua1",
+        "pen2",
+        "li3",
+        "zhao3",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "he2",
+        "qiao2 zhi4",
+        "zai4",
+        "hua1 pen2 li3",
+        "zhao3",
+        "xie2 zi5"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.019.mp3",
+      "fileName": "peppa001.019.mp3",
+      "transcript": "pei4-qi2-de5-xie2-zi5-ye3-bu4-zai4-na4-r5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "de5",
+        "xie2",
+        "zi5",
+        "ye3",
+        "bu4",
+        "zai4",
+        "na4",
+        "r5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "de5",
+        "xie2 zi5",
+        "ye3",
+        "bu4",
+        "zai4",
+        "na4 r5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.020.mp3",
+      "fileName": "peppa001.020.mp3",
+      "transcript": "mei3-ge4-di4-fang5-dou1-zhao3-le5",
+      "syllables": [
+        "mei3",
+        "ge4",
+        "di4",
+        "fang5",
+        "dou1",
+        "zhao3",
+        "le5"
+      ],
+      "words": [
+        "mei3 ge4",
+        "di4 fang5",
+        "dou1",
+        "zhao3",
+        "le5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/peppa001.021.mp3",
+      "fileName": "peppa001.021.mp3",
+      "transcript": "dan4-shi4-zhao3-bu4-dao4-pei4-qi2-de5-xie2-zi5",
+      "syllables": [
+        "dan4",
+        "shi4",
+        "zhao3",
+        "bu4",
+        "dao4",
+        "pei4",
+        "qi2",
+        "de5",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "dan4 shi4",
+        "zhao3",
+        "bu4 dao4",
+        "pei4 qi2",
+        "de5",
+        "xie2 zi5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.022.mp3",
+      "fileName": "peppa001.022.mp3",
+      "transcript": "pei4-qi2-de5-xie2-zi5-diu1-le5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "de5",
+        "xie2",
+        "zi5",
+        "diu1",
+        "le5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "de5",
+        "xie2 zi5",
+        "diu1",
+        "le5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.023.mp3",
+      "fileName": "peppa001.023.mp3",
+      "transcript": "xian4-zai4-wo3-mei2-you3-xie2-zi5-ke3-chuan1-le5",
+      "syllables": [
+        "xian4",
+        "zai4",
+        "wo3",
+        "mei2",
+        "you3",
+        "xie2",
+        "zi5",
+        "ke3",
+        "chuan1",
+        "le5"
+      ],
+      "words": [
+        "xian4 zai4",
+        "wo3",
+        "mei2 you3",
+        "xie2 zi5",
+        "ke3 chuan1",
+        "le5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.024.mp3",
+      "fileName": "peppa001.024.mp3",
+      "transcript": "ke3-lian2-de5-pei4-qi2",
+      "syllables": [
+        "ke3",
+        "lian2",
+        "de5",
+        "pei4",
+        "qi2"
+      ],
+      "words": [
+        "ke3 lian2",
+        "de5",
+        "pei4 qi2"
+      ],
+      "syllableCount": 5,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.025.mp3",
+      "fileName": "peppa001.025.mp3",
+      "transcript": "ni3-de5-xie2-zi5-que4-shi2-you3-dian3-jiu4-le5",
+      "syllables": [
+        "ni3",
+        "de5",
+        "xie2",
+        "zi5",
+        "que4",
+        "shi2",
+        "you3",
+        "dian3",
+        "jiu4",
+        "le5"
+      ],
+      "words": [
+        "ni3",
+        "de5",
+        "xie2 zi5",
+        "que4 shi2",
+        "you3 dian3",
+        "jiu4",
+        "le5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.026.mp3",
+      "fileName": "peppa001.026.mp3",
+      "transcript": "mai3-shuang1-xin1-de5-ba5",
+      "syllables": [
+        "mai3",
+        "shuang1",
+        "xin1",
+        "de5",
+        "ba5"
+      ],
+      "words": [
+        "mai3",
+        "shuang1 xin1",
+        "de5",
+        "ba5"
+      ],
+      "syllableCount": 5,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.027.mp3",
+      "fileName": "peppa001.027.mp3",
+      "transcript": "neng2-mai3-shuang1-hong2-se4-de5-xin1-xie2-zi5-ma5",
+      "syllables": [
+        "neng2",
+        "mai3",
+        "shuang1",
+        "hong2",
+        "se4",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5",
+        "ma5"
+      ],
+      "words": [
+        "neng2",
+        "mai3",
+        "shuang1",
+        "hong2 se4",
+        "de5",
+        "xin1",
+        "xie2 zi5",
+        "ma5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.028.mp3",
+      "fileName": "peppa001.028.mp3",
+      "transcript": "dang1-ran2-ke3-yi3-la5",
+      "syllables": [
+        "dang1",
+        "ran2",
+        "ke3",
+        "yi3",
+        "la5"
+      ],
+      "words": [
+        "dang1 ran2",
+        "ke3 yi3",
+        "la5"
+      ],
+      "syllableCount": 5,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/peppa001.029.mp3",
+      "fileName": "peppa001.029.mp3",
+      "transcript": "qiao2-zhi4-wo3-you3-hong2-se4-de5-xin1-xie2-zi5-chuan1-la5",
+      "syllables": [
+        "qiao2",
+        "zhi4",
+        "wo3",
+        "you3",
+        "hong2",
+        "se4",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5",
+        "chuan1",
+        "la5"
+      ],
+      "words": [
+        "qiao2 zhi4",
+        "wo3",
+        "you3",
+        "hong2 se4",
+        "de5",
+        "xin1",
+        "xie2 zi5",
+        "chuan1",
+        "la5"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.030.mp3",
+      "fileName": "peppa001.030.mp3",
+      "transcript": "zhu1-ma1-ma5-he2-pei4-ji1-lai2-dao4-le5-tu4-xiao3-jie5-de5-xie2-dian4",
+      "syllables": [
+        "zhu1",
+        "ma1",
+        "ma5",
+        "he2",
+        "pei4",
+        "ji1",
+        "lai2",
+        "dao4",
+        "le5",
+        "tu4",
+        "xiao3",
+        "jie5",
+        "de5",
+        "xie2",
+        "dian4"
+      ],
+      "words": [
+        "zhu1",
+        "ma1 ma5",
+        "he2 pei4 ji1",
+        "lai2 dao4",
+        "le5",
+        "tu4",
+        "xiao3 jie5",
+        "de5",
+        "xie2 dian4"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.031.mp3",
+      "fileName": "peppa001.031.mp3",
+      "transcript": "ni3-hao3-tu4-xiao3-jie5",
+      "syllables": [
+        "ni3",
+        "hao3",
+        "tu4",
+        "xiao3",
+        "jie5"
+      ],
+      "words": [
+        "ni3 hao3",
+        "tu4",
+        "xiao3 jie5"
+      ],
+      "syllableCount": 5,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.032.mp3",
+      "fileName": "peppa001.032.mp3",
+      "transcript": "ni3-hao3-zhu1-ma1-ma5",
+      "syllables": [
+        "ni3",
+        "hao3",
+        "zhu1",
+        "ma1",
+        "ma5"
+      ],
+      "words": [
+        "ni3 hao3",
+        "zhu1",
+        "ma1 ma5"
+      ],
+      "syllableCount": 5,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/peppa001.033.mp3",
+      "fileName": "peppa001.033.mp3",
+      "transcript": "wo3-xiang3-gei3-pei4-qi2-mai3-shuang1-xin1-xie2-zi5",
+      "syllables": [
+        "wo3",
+        "xiang3",
+        "gei3",
+        "pei4",
+        "qi2",
+        "mai3",
+        "shuang1",
+        "xin1",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "wo3",
+        "xiang3",
+        "gei3",
+        "pei4 qi2",
+        "mai3",
+        "shuang1 xin1",
+        "xie2 zi5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.034.mp3",
+      "fileName": "peppa001.034.mp3",
+      "transcript": "hong2-se4-de5-xie2-zi5",
+      "syllables": [
+        "hong2",
+        "se4",
+        "de5",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "hong2 se4",
+        "de5",
+        "xie2 zi5"
+      ],
+      "syllableCount": 5,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.035.mp3",
+      "fileName": "peppa001.035.mp3",
+      "transcript": "wo3-hui4-gei3-ni3-zhao3-yi1-shuang1-piao4-liang5-de5-xin1-xie2-zi5",
+      "syllables": [
+        "wo3",
+        "hui4",
+        "gei3",
+        "ni3",
+        "zhao3",
+        "yi1",
+        "shuang1",
+        "piao4",
+        "liang5",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "wo3 hui4",
+        "gei3",
+        "ni3",
+        "zhao3",
+        "yi1 shuang1",
+        "piao4 liang5",
+        "de5",
+        "xin1",
+        "xie2 zi5"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.036.mp3",
+      "fileName": "peppa001.036.mp3",
+      "transcript": "wo3-yao4-hong2-se4-de5-xie4-xie5",
+      "syllables": [
+        "wo3",
+        "yao4",
+        "hong2",
+        "se4",
+        "de5",
+        "xie4",
+        "xie5"
+      ],
+      "words": [
+        "wo3 yao4",
+        "hong2 se4",
+        "de5",
+        "xie4 xie5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.037.mp3",
+      "fileName": "peppa001.037.mp3",
+      "transcript": "mei2-wen4-ti2-hong2-se4-de5",
+      "syllables": [
+        "mei2",
+        "wen4",
+        "ti2",
+        "hong2",
+        "se4",
+        "de5"
+      ],
+      "words": [
+        "mei2",
+        "wen4 ti2",
+        "hong2 se4",
+        "de5"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/peppa001.038.mp3",
+      "fileName": "peppa001.038.mp3",
+      "transcript": "wa1-hong2-se4-de5-xin1-xie2-zi5",
+      "syllables": [
+        "wa1",
+        "hong2",
+        "se4",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "wa1",
+        "hong2 se4",
+        "de5",
+        "xin1",
+        "xie2 zi5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.039.mp3",
+      "fileName": "peppa001.039.mp3",
+      "transcript": "qiao2-zhi4-he2-zhu1-ba4-ba5-xia4-qi2",
+      "syllables": [
+        "qiao2",
+        "zhi4",
+        "he2",
+        "zhu1",
+        "ba4",
+        "ba5",
+        "xia4",
+        "qi2"
+      ],
+      "words": [
+        "qiao2 zhi4",
+        "he2",
+        "zhu1",
+        "ba4 ba5",
+        "xia4 qi2"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.040.mp3",
+      "fileName": "peppa001.040.mp3",
+      "transcript": "o1-zuo4-de5-hao3-qiao2-zhi4",
+      "syllables": [
+        "o1",
+        "zuo4",
+        "de5",
+        "hao3",
+        "qiao2",
+        "zhi4"
+      ],
+      "words": [
+        "o1",
+        "zuo4 de5 hao3",
+        "qiao2 zhi4"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.041.mp3",
+      "fileName": "peppa001.041.mp3",
+      "transcript": "ba4-ba5-ba4-ba5",
+      "syllables": [
+        "ba4",
+        "ba5",
+        "ba4",
+        "ba5"
+      ],
+      "words": [
+        "ba4 ba5",
+        "ba4 ba5"
+      ],
+      "syllableCount": 4,
+      "difficulty": "L1",
+      "hasTones": true,
+      "contrasts": []
+    },
+    {
+      "file": "audio/peppa001.042.mp3",
+      "fileName": "peppa001.042.mp3",
+      "transcript": "kan4-kan5-wo3-de5-xin1-xie2-zi5-shi4-hong2-se4-de5-o1",
+      "syllables": [
+        "kan4",
+        "kan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5",
+        "shi4",
+        "hong2",
+        "se4",
+        "de5",
+        "o1"
+      ],
+      "words": [
+        "kan4 kan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2 zi5",
+        "shi4",
+        "hong2 se4",
+        "de5",
+        "o1"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.043.mp3",
+      "fileName": "peppa001.043.mp3",
+      "transcript": "kan4-dao4-le5-shi4-hong2-se4-de5",
+      "syllables": [
+        "kan4",
+        "dao4",
+        "le5",
+        "shi4",
+        "hong2",
+        "se4",
+        "de5"
+      ],
+      "words": [
+        "kan4 dao4",
+        "le5",
+        "shi4",
+        "hong2 se4",
+        "de5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final"
+      ]
+    },
+    {
+      "file": "audio/peppa001.044.mp3",
+      "fileName": "peppa001.044.mp3",
+      "transcript": "ma1-ma5-xi3-huan5-wo3-de5-xin1-xie2-zi5-ma5",
+      "syllables": [
+        "ma1",
+        "ma5",
+        "xi3",
+        "huan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5",
+        "ma5"
+      ],
+      "words": [
+        "ma1 ma5",
+        "xi3 huan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2 zi5",
+        "ma5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.045.mp3",
+      "fileName": "peppa001.045.mp3",
+      "transcript": "shi4-de5-pei4-qi2-ni3-chuan1-zhuo2-xie2-zi5-hen3-piao1-liang4",
+      "syllables": [
+        "shi4",
+        "de5",
+        "pei4",
+        "qi2",
+        "ni3",
+        "chuan1",
+        "zhuo2",
+        "xie2",
+        "zi5",
+        "hen3",
+        "piao1",
+        "liang4"
+      ],
+      "words": [
+        "shi4",
+        "de5",
+        "pei4 qi2",
+        "ni3",
+        "chuan1 zhuo2",
+        "xie2 zi5",
+        "hen3 piao1 liang4"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.046.mp3",
+      "fileName": "peppa001.046.mp3",
+      "transcript": "qiao2-zhi4-xi3-huan5-wo3-de5-xin1-xie2-zi5-ma5",
+      "syllables": [
+        "qiao2",
+        "zhi4",
+        "xi3",
+        "huan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5",
+        "ma5"
+      ],
+      "words": [
+        "qiao2 zhi4",
+        "xi3 huan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2 zi5",
+        "ma5"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.047.mp3",
+      "fileName": "peppa001.047.mp3",
+      "transcript": "da4-jia1-dou1-xi3-huan5-pei4-qi2-de5-xin1-xie2-zi5",
+      "syllables": [
+        "da4",
+        "jia1",
+        "dou1",
+        "xi3",
+        "huan5",
+        "pei4",
+        "qi2",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "da4 jia1",
+        "dou1",
+        "xi3 huan5",
+        "pei4 qi2",
+        "de5",
+        "xin1",
+        "xie2 zi5"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.048.mp3",
+      "fileName": "peppa001.048.mp3",
+      "transcript": "wo3-zhen1-de5-tai4-xi3-huan5-wo3-de5-xin1-xie2-zi5-le5",
+      "syllables": [
+        "wo3",
+        "zhen1",
+        "de5",
+        "tai4",
+        "xi3",
+        "huan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5",
+        "le5"
+      ],
+      "words": [
+        "wo3",
+        "zhen1 de5",
+        "tai4",
+        "xi3 huan5",
+        "wo3",
+        "de5",
+        "xin1",
+        "xie2 zi5",
+        "le5"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.049.mp3",
+      "fileName": "peppa001.049.mp3",
+      "transcript": "wo3-yong3-yuan3-dou1-bu4-xiang3-ba3-ta1-men5-tuo1-xia4-lai2",
+      "syllables": [
+        "wo3",
+        "yong3",
+        "yuan3",
+        "dou1",
+        "bu4",
+        "xiang3",
+        "ba3",
+        "ta1",
+        "men5",
+        "tuo1",
+        "xia4",
+        "lai2"
+      ],
+      "words": [
+        "wo3",
+        "yong3 yuan3",
+        "dou1",
+        "bu4 xiang3",
+        "ba3",
+        "ta1 men5",
+        "tuo1 xia4 lai2"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.050.mp3",
+      "fileName": "peppa001.050.mp3",
+      "transcript": "xi3-zao3-shi2-jian1-dao4-le5",
+      "syllables": [
+        "xi3",
+        "zao3",
+        "shi2",
+        "jian1",
+        "dao4",
+        "le5"
+      ],
+      "words": [
+        "xi3 zao3",
+        "shi2 jian1",
+        "dao4",
+        "le5"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.051.mp3",
+      "fileName": "peppa001.051.mp3",
+      "transcript": "dan4-pei4-qi2-bu4-xiang3-tuo1-xia4-xin1-xie2-zi5-chuan1-zhuo2-ta1-xi3-zao3",
+      "syllables": [
+        "dan4",
+        "pei4",
+        "qi2",
+        "bu4",
+        "xiang3",
+        "tuo1",
+        "xia4",
+        "xin1",
+        "xie2",
+        "zi5",
+        "chuan1",
+        "zhuo2",
+        "ta1",
+        "xi3",
+        "zao3"
+      ],
+      "words": [
+        "dan4",
+        "pei4 qi2",
+        "bu4 xiang3",
+        "tuo1 xia4",
+        "xin1",
+        "xie2 zi5",
+        "chuan1 zhuo2",
+        "ta1",
+        "xi3 zao3"
+      ],
+      "syllableCount": 15,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.052.mp3",
+      "fileName": "peppa001.052.mp3",
+      "transcript": "pei4-qi2-huan4-shang4-le5-shui4-yi1",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "huan4",
+        "shang4",
+        "le5",
+        "shui4",
+        "yi1"
+      ],
+      "words": [
+        "pei4 qi2",
+        "huan4 shang4",
+        "le5",
+        "shui4 yi1"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.053.mp3",
+      "fileName": "peppa001.053.mp3",
+      "transcript": "dan4-xin1-xie2-zi5-hai2-shi5-mei2-you3-tuo1-xia4-lai2",
+      "syllables": [
+        "dan4",
+        "xin1",
+        "xie2",
+        "zi5",
+        "hai2",
+        "shi5",
+        "mei2",
+        "you3",
+        "tuo1",
+        "xia4",
+        "lai2"
+      ],
+      "words": [
+        "dan4",
+        "xin1",
+        "xie2 zi5",
+        "hai2 shi5",
+        "mei2 you3",
+        "tuo1 xia4 lai2"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.054.mp3",
+      "fileName": "peppa001.054.mp3",
+      "transcript": "pei4-qi2-shen4-zhi4-hai2-xiang3-chuan1-zhuo2-xin1-xie2-zi5-shui4-jiao4",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "shen4",
+        "zhi4",
+        "hai2",
+        "xiang3",
+        "chuan1",
+        "zhuo2",
+        "xin1",
+        "xie2",
+        "zi5",
+        "shui4",
+        "jiao4"
+      ],
+      "words": [
+        "pei4 qi2",
+        "shen4 zhi4",
+        "hai2",
+        "xiang3",
+        "chuan1 zhuo2",
+        "xin1",
+        "xie2 zi5",
+        "shui4 jiao4"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.055.mp3",
+      "fileName": "peppa001.055.mp3",
+      "transcript": "pei4-qi2-ni3-zhen1-de5-bu4-ba3-xie2-zi5-tuo1-xia4-lai2-ma5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "ni3",
+        "zhen1",
+        "de5",
+        "bu4",
+        "ba3",
+        "xie2",
+        "zi5",
+        "tuo1",
+        "xia4",
+        "lai2",
+        "ma5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "ni3",
+        "zhen1 de5",
+        "bu4",
+        "ba3",
+        "xie2 zi5",
+        "tuo1 xia4 lai2",
+        "ma5"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.056.mp3",
+      "fileName": "peppa001.056.mp3",
+      "transcript": "wo3-yong3-yuan3-dou1-bu4-xiang3-ba3-xie2-zi5-tuo1-xia4-lai2-ma1-ma5",
+      "syllables": [
+        "wo3",
+        "yong3",
+        "yuan3",
+        "dou1",
+        "bu4",
+        "xiang3",
+        "ba3",
+        "xie2",
+        "zi5",
+        "tuo1",
+        "xia4",
+        "lai2",
+        "ma1",
+        "ma5"
+      ],
+      "words": [
+        "wo3",
+        "yong3 yuan3",
+        "dou1",
+        "bu4 xiang3",
+        "ba3",
+        "xie2 zi5",
+        "tuo1 xia4 lai2",
+        "ma1 ma5"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.057.mp3",
+      "fileName": "peppa001.057.mp3",
+      "transcript": "na4-hao3-ba5-wan3-an1-pei4-qi2-qiao2-zhi4",
+      "syllables": [
+        "na4",
+        "hao3",
+        "ba5",
+        "wan3",
+        "an1",
+        "pei4",
+        "qi2",
+        "qiao2",
+        "zhi4"
+      ],
+      "words": [
+        "na4 hao3",
+        "ba5",
+        "wan3 an1",
+        "pei4 qi2",
+        "qiao2 zhi4"
+      ],
+      "syllableCount": 9,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.058.mp3",
+      "fileName": "peppa001.058.mp3",
+      "transcript": "wan3-an1-le5-ma1-ma5-wan3-an1-ba4-ba5",
+      "syllables": [
+        "wan3",
+        "an1",
+        "le5",
+        "ma1",
+        "ma5",
+        "wan3",
+        "an1",
+        "ba4",
+        "ba5"
+      ],
+      "words": [
+        "wan3 an1",
+        "le5",
+        "ma1 ma5",
+        "wan3 an1",
+        "ba4 ba5"
+      ],
+      "syllableCount": 9,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final"
+      ]
+    },
+    {
+      "file": "audio/peppa001.059.mp3",
+      "fileName": "peppa001.059.mp3",
+      "transcript": "wan3-an1-wo3-de5-xiao3-jia1-huo3-men5",
+      "syllables": [
+        "wan3",
+        "an1",
+        "wo3",
+        "de5",
+        "xiao3",
+        "jia1",
+        "huo3",
+        "men5"
+      ],
+      "words": [
+        "wan3 an1",
+        "wo3",
+        "de5",
+        "xiao3 jia1 huo3",
+        "men5"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.060.mp3",
+      "fileName": "peppa001.060.mp3",
+      "transcript": "xia4-le5-yi1-zheng3-ye4-de5-yu3",
+      "syllables": [
+        "xia4",
+        "le5",
+        "yi1",
+        "zheng3",
+        "ye4",
+        "de5",
+        "yu3"
+      ],
+      "words": [
+        "xia4",
+        "le5",
+        "yi1 zheng3 ye4",
+        "de5",
+        "yu3"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.061.mp3",
+      "fileName": "peppa001.061.mp3",
+      "transcript": "xian4-zai4-hua1-yuan2-li3-hen3-chao2-shi1",
+      "syllables": [
+        "xian4",
+        "zai4",
+        "hua1",
+        "yuan2",
+        "li3",
+        "hen3",
+        "chao2",
+        "shi1"
+      ],
+      "words": [
+        "xian4 zai4",
+        "hua1 yuan2 li3",
+        "hen3",
+        "chao2 shi1"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.062.mp3",
+      "fileName": "peppa001.062.mp3",
+      "transcript": "zhu1-ma1-ma5-chuan1-zhuo2-xue1-zi5",
+      "syllables": [
+        "zhu1",
+        "ma1",
+        "ma5",
+        "chuan1",
+        "zhuo2",
+        "xue1",
+        "zi5"
+      ],
+      "words": [
+        "zhu1",
+        "ma1 ma5",
+        "chuan1 zhuo2",
+        "xue1 zi5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.063.mp3",
+      "fileName": "peppa001.063.mp3",
+      "transcript": "zhu1-ba4-ba5-chuan1-zhuo2-xue1-zi5",
+      "syllables": [
+        "zhu1",
+        "ba4",
+        "ba5",
+        "chuan1",
+        "zhuo2",
+        "xue1",
+        "zi5"
+      ],
+      "words": [
+        "zhu1",
+        "ba4 ba5",
+        "chuan1 zhuo2",
+        "xue1 zi5"
+      ],
+      "syllableCount": 7,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.064.mp3",
+      "fileName": "peppa001.064.mp3",
+      "transcript": "qiao2-zhi4-ye3-chuan1-zhuo2-ta1-de5-xue1-zi5",
+      "syllables": [
+        "qiao2",
+        "zhi4",
+        "ye3",
+        "chuan1",
+        "zhuo2",
+        "ta1",
+        "de5",
+        "xue1",
+        "zi5"
+      ],
+      "words": [
+        "qiao2 zhi4",
+        "ye3",
+        "chuan1 zhuo2",
+        "ta1",
+        "de5",
+        "xue1 zi5"
+      ],
+      "syllableCount": 9,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.065.mp3",
+      "fileName": "peppa001.065.mp3",
+      "transcript": "pei4-qi2-que4-hai2-chuan1-zhuo2-ta1-de5-xin1-xie2-zi5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "que4",
+        "hai2",
+        "chuan1",
+        "zhuo2",
+        "ta1",
+        "de5",
+        "xin1",
+        "xie2",
+        "zi5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "que4",
+        "hai2",
+        "chuan1 zhuo2",
+        "ta1",
+        "de5",
+        "xin1",
+        "xie2 zi5"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.066.mp3",
+      "fileName": "peppa001.066.mp3",
+      "transcript": "qiao2-zhi4-zai4-chao2-shi1-de5-cao3-cong2-li3-wan2-r5",
+      "syllables": [
+        "qiao2",
+        "zhi4",
+        "zai4",
+        "chao2",
+        "shi1",
+        "de5",
+        "cao3",
+        "cong2",
+        "li3",
+        "wan2",
+        "r5"
+      ],
+      "words": [
+        "qiao2 zhi4",
+        "zai4",
+        "chao2 shi1",
+        "de5",
+        "cao3 cong2 li3",
+        "wan2 r5"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.067.mp3",
+      "fileName": "peppa001.067.mp3",
+      "transcript": "o1-zao1-gao1-pei4-qi2-ye3-xi3-huan5-zai4-chao2-shi1-de5-cao3-cong2-li3-wan2-r5",
+      "syllables": [
+        "o1",
+        "zao1",
+        "gao1",
+        "pei4",
+        "qi2",
+        "ye3",
+        "xi3",
+        "huan5",
+        "zai4",
+        "chao2",
+        "shi1",
+        "de5",
+        "cao3",
+        "cong2",
+        "li3",
+        "wan2",
+        "r5"
+      ],
+      "words": [
+        "o1",
+        "zao1 gao1",
+        "pei4 qi2",
+        "ye3",
+        "xi3 huan5",
+        "zai4",
+        "chao2 shi1",
+        "de5",
+        "cao3 cong2 li3",
+        "wan2 r5"
+      ],
+      "syllableCount": 17,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.068.mp3",
+      "fileName": "peppa001.068.mp3",
+      "transcript": "dan4-ta1-bu4-xiang3-ba3-xin1-xie2-zi5-long4-shi1",
+      "syllables": [
+        "dan4",
+        "ta1",
+        "bu4",
+        "xiang3",
+        "ba3",
+        "xin1",
+        "xie2",
+        "zi5",
+        "long4",
+        "shi1"
+      ],
+      "words": [
+        "dan4",
+        "ta1",
+        "bu4 xiang3",
+        "ba3",
+        "xin1",
+        "xie2 zi5",
+        "long4 shi1"
+      ],
+      "syllableCount": 10,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.069.mp3",
+      "fileName": "peppa001.069.mp3",
+      "transcript": "wo3-bu4-neng2-zai4-chao2-shi1-de5-cao3-cong2-li3-wan2-r5-qiao2-zhi4",
+      "syllables": [
+        "wo3",
+        "bu4",
+        "neng2",
+        "zai4",
+        "chao2",
+        "shi1",
+        "de5",
+        "cao3",
+        "cong2",
+        "li3",
+        "wan2",
+        "r5",
+        "qiao2",
+        "zhi4"
+      ],
+      "words": [
+        "wo3",
+        "bu4 neng2",
+        "zai4",
+        "chao2 shi1",
+        "de5",
+        "cao3 cong2 li3",
+        "wan2 r5",
+        "qiao2 zhi4"
+      ],
+      "syllableCount": 14,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.070.mp3",
+      "fileName": "peppa001.070.mp3",
+      "transcript": "qiao2-zhi4-xi3-huan5-zai4-ni2-keng1-li3-tiao4-lai2-tiao4-qu4",
+      "syllables": [
+        "qiao2",
+        "zhi4",
+        "xi3",
+        "huan5",
+        "zai4",
+        "ni2",
+        "keng1",
+        "li3",
+        "tiao4",
+        "lai2",
+        "tiao4",
+        "qu4"
+      ],
+      "words": [
+        "qiao2 zhi4",
+        "xi3 huan5",
+        "zai4",
+        "ni2 keng1",
+        "li3",
+        "tiao4 lai2 tiao4 qu4"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.071.mp3",
+      "fileName": "peppa001.071.mp3",
+      "transcript": "pei4-qi2-ye3-xi3-huan5-zai4-ni2-keng1-li3-wan2-r5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "ye3",
+        "xi3",
+        "huan5",
+        "zai4",
+        "ni2",
+        "keng1",
+        "li3",
+        "wan2",
+        "r5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "ye3",
+        "xi3 huan5",
+        "zai4",
+        "ni2 keng1",
+        "li3",
+        "wan2 r5"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.072.mp3",
+      "fileName": "peppa001.072.mp3",
+      "transcript": "dan4-ta1-bu4-xiang3-rang4-xin1-xie2-zi5-zhan1-shang4-ni2",
+      "syllables": [
+        "dan4",
+        "ta1",
+        "bu4",
+        "xiang3",
+        "rang4",
+        "xin1",
+        "xie2",
+        "zi5",
+        "zhan1",
+        "shang4",
+        "ni2"
+      ],
+      "words": [
+        "dan4",
+        "ta1",
+        "bu4 xiang3",
+        "rang4",
+        "xin1",
+        "xie2 zi5",
+        "zhan1 shang4",
+        "ni2"
+      ],
+      "syllableCount": 11,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.073.mp3",
+      "fileName": "peppa001.073.mp3",
+      "transcript": "zhu1-ma1-ma5-he2-zhu1-ba4-ba5-xi3-huan5-zai4-ni2-keng1-li3-tiao4-lai2-tiao4-qu4",
+      "syllables": [
+        "zhu1",
+        "ma1",
+        "ma5",
+        "he2",
+        "zhu1",
+        "ba4",
+        "ba5",
+        "xi3",
+        "huan5",
+        "zai4",
+        "ni2",
+        "keng1",
+        "li3",
+        "tiao4",
+        "lai2",
+        "tiao4",
+        "qu4"
+      ],
+      "words": [
+        "zhu1",
+        "ma1 ma5",
+        "he2",
+        "zhu1",
+        "ba4 ba5",
+        "xi3 huan5",
+        "zai4",
+        "ni2 keng1",
+        "li3",
+        "tiao4 lai2 tiao4 qu4"
+      ],
+      "syllableCount": 17,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.074.mp3",
+      "fileName": "peppa001.074.mp3",
+      "transcript": "da4-jia1-dou1-xi3-huan5-zai4-ni2-keng1-li3-tiao4-lai2-tiao4-qu4",
+      "syllables": [
+        "da4",
+        "jia1",
+        "dou1",
+        "xi3",
+        "huan5",
+        "zai4",
+        "ni2",
+        "keng1",
+        "li3",
+        "tiao4",
+        "lai2",
+        "tiao4",
+        "qu4"
+      ],
+      "words": [
+        "da4 jia1",
+        "dou1",
+        "xi3 huan5",
+        "zai4",
+        "ni2 keng1",
+        "li3",
+        "tiao4 lai2 tiao4 qu4"
+      ],
+      "syllableCount": 13,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.075.mp3",
+      "fileName": "peppa001.075.mp3",
+      "transcript": "pei4-qi2-yao4-qu4-na3-r5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "yao4",
+        "qu4",
+        "na3",
+        "r5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "yao4",
+        "qu4",
+        "na3 r5"
+      ],
+      "syllableCount": 6,
+      "difficulty": "L2",
+      "hasTones": true,
+      "contrasts": [
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.076.mp3",
+      "fileName": "peppa001.076.mp3",
+      "transcript": "pei4-qi2-chuan1-shang4-le5-ta1-de5-xue1-zi5",
+      "syllables": [
+        "pei4",
+        "qi2",
+        "chuan1",
+        "shang4",
+        "le5",
+        "ta1",
+        "de5",
+        "xue1",
+        "zi5"
+      ],
+      "words": [
+        "pei4 qi2",
+        "chuan1",
+        "shang4",
+        "le5",
+        "ta1",
+        "de5",
+        "xue1 zi5"
+      ],
+      "syllableCount": 9,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
+        "ng_final",
+        "q_initial",
+        "x_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.077.mp3",
+      "fileName": "peppa001.077.mp3",
+      "transcript": "ru2-guo3-ni3-yao4-zai4-ni2-keng1-li3-tiao4-lai2-tiao4-qu4",
+      "syllables": [
+        "ru2",
+        "guo3",
+        "ni3",
+        "yao4",
+        "zai4",
+        "ni2",
+        "keng1",
+        "li3",
+        "tiao4",
+        "lai2",
+        "tiao4",
+        "qu4"
+      ],
+      "words": [
+        "ru2 guo3",
+        "ni3",
+        "yao4",
+        "zai4",
+        "ni2 keng1",
+        "li3",
+        "tiao4 lai2 tiao4 qu4"
+      ],
+      "syllableCount": 12,
+      "difficulty": "L4",
+      "hasTones": true,
+      "contrasts": [
+        "ng_final",
+        "q_initial"
+      ]
+    },
+    {
+      "file": "audio/peppa001.078.mp3",
+      "fileName": "peppa001.078.mp3",
+      "transcript": "yi1-ding4-yao4-chuan1-shang4-xue1-zi5-o1",
+      "syllables": [
+        "yi1",
+        "ding4",
+        "yao4",
+        "chuan1",
+        "shang4",
+        "xue1",
+        "zi5",
+        "o1"
+      ],
+      "words": [
+        "yi1 ding4",
+        "yao4",
+        "chuan1",
+        "shang4",
+        "xue1 zi5",
+        "o1"
+      ],
+      "syllableCount": 8,
+      "difficulty": "L3",
+      "hasTones": true,
+      "contrasts": [
+        "n_final",
         "ng_final",
         "x_initial"
       ]
